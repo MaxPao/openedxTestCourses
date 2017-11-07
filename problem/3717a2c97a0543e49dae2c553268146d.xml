@@ -1,0 +1,13 @@
+<problem display_name="Lab Question" markdown="&gt;&gt;What is the total margin % of all products throughout the years?&lt;&lt;&#10;( ) 67.90&#10;( ) 68.90&#10;(x) 69.90&#10;( ) 70.90&#10;&#10;">
+<p>What is the total margin % of all products throughout the years?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the total margin % of all products throughout the years?" type="MultipleChoice">
+    <choice correct="false">67.90</choice>
+    <choice correct="false">68.90</choice>
+    <choice correct="true">69.90</choice>
+    <choice correct="false">70.90</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

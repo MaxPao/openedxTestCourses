@@ -1,0 +1,24 @@
+<problem display_name="Lab Question 2" markdown="Answer the following question by reviewing the data source for the dashboard objects.&#10;&#10;&gt;&gt;Where do the sales figures shown in the charts come from?&lt;&lt;&#10;( ) SQL database&#10;( ) Excel data model&#10;(x) Sales Worksheet&#10;( ) Products Worksheet&#10;( ) Dashboard - CA Worksheet&#10;&#10;[explanation]&#10;The sales figure comes from the Sales table located in the Sales Worksheet.&#10;[explanation]&#10;">
+<p>Answer the following question by reviewing the data source for the dashboard objects.</p>
+
+<p>Where do the sales figures shown in the charts come from?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Where do the sales figures shown in the charts come from?" type="MultipleChoice">
+    <choice correct="false">SQL database</choice>
+    <choice correct="false">Excel data model</choice>
+    <choice correct="true">Sales Worksheet</choice>
+    <choice correct="false">Products Worksheet</choice>
+    <choice correct="false">Dashboard - CA Worksheet</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The sales figure comes from the Sales table located in the Sales Worksheet.</p>
+
+</div>
+</solution>
+
+</problem>

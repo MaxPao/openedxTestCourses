@@ -1,0 +1,9 @@
+<video youtube="1.00:HQYwBpnMxBU" url_name="cacaf349ac36484eb427990d325b5072" display_name="Video" download_track="true" download_video="true" edx_video_id="d6395d16-acce-43d8-9827-fd0969366743" html5_sources="[]" sub="HQYwBpnMxBU" youtube_id_1_0="HQYwBpnMxBU">
+  <video_asset client_video_id="TreemapChart.mp4" duration="209.07">
+    <encoded_video bitrate="298" file_size="7791805" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V002100_DTH.mp4"/>
+    <encoded_video bitrate="115" file_size="3025011" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V002100_MB2.mp4"/>
+    <encoded_video bitrate="192" file_size="5019408" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V002100_AUD.mp3"/>
+    <encoded_video bitrate="221" file_size="5793351" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V002100_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="HQYwBpnMxBU"/>
+  </video_asset>
+</video>

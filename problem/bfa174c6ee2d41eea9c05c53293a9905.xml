@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;Which two actions unhide a worksheet in a workbook?&lt;&lt;&#10;&#10;[x]&#9;Right-click a worksheet tab, and click Unhide.&#10;[ ]&#9;Right-click anywhere in the worksheet, and click Unhide.&#10;[x]&#9;On the Home tab, click Format in the Cells group, select Hide &amp;amp; Unhide, and click Unhide Sheet. &#10;[ ]&#9;On the Page Layout tab, select View in the Sheet Options group.&#10;&#10;[explanation]&#10;The correct answer is the first and third option.&#10;[explanation]&#10;">
+<p>Which two actions unhide a worksheet in a workbook?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two actions unhide a worksheet in a workbook?">
+    <choice correct="true">Right-click a worksheet tab, and click Unhide.</choice>
+    <choice correct="false">Right-click anywhere in the worksheet, and click Unhide.</choice>
+    <choice correct="true">On the Home tab, click Format in the Cells group, select Hide &amp; Unhide, and click Unhide Sheet. </choice>
+    <choice correct="false">On the Page Layout tab, select View in the Sheet Options group.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The correct answer is the first and third option.</p>
+
+</div>
+</solution>
+
+</problem>

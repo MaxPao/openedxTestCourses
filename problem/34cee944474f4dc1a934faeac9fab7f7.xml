@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;Which three columns are typically found in a calendar table?&lt;&lt;&#10;&#10;[ ]&#9;Time&#10;[x]&#9;Date&#10;[x]&#9;Month&#10;[x]&#9;Year&#10;&#10;[explanation]&#10;Time column is not typically found in a calendar table.&#10;[explanation]&#10;">
+<p>Which three columns are typically found in a calendar table?</p>
+<choiceresponse>
+  <checkboxgroup label="Which three columns are typically found in a calendar table?">
+    <choice correct="false">Time</choice>
+    <choice correct="true">Date</choice>
+    <choice correct="true">Month</choice>
+    <choice correct="true">Year</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Time column is not typically found in a calendar table.</p>
+
+</div>
+</solution>
+
+</problem>

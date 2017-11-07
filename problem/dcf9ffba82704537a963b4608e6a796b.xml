@@ -1,0 +1,21 @@
+<problem display_name="Question 6" markdown="&gt;&gt;Which CUBE function returns an aggregated value from the cube?&lt;&lt;&#10;&#10;( )&#9;CUBEMEMBER&#10;(x)&#9;CUBEVALUE&#10;( )&#9;CUBESET&#10;( )&#9;CUBECOUNT&#10;&#10;[explanation]&#10;The CUBEVALUE function returns an aggregated value from the cube.&#10;[explanation]&#10;">
+<p>Which CUBE function returns an aggregated value from the cube?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which CUBE function returns an aggregated value from the cube?" type="MultipleChoice">
+    <choice correct="false">CUBEMEMBER</choice>
+    <choice correct="true">CUBEVALUE</choice>
+    <choice correct="false">CUBESET</choice>
+    <choice correct="false">CUBECOUNT</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The CUBEVALUE function returns an aggregated value from the cube.</p>
+
+</div>
+</solution>
+
+</problem>

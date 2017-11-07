@@ -1,0 +1,13 @@
+<problem display_name="Lab Question 1" markdown="null" max_attempts="2" show_reset_button="true">
+<p>This dashboard has five slicers which are used to filter the data in the connected charts. Slicers are very useful to visually indicate the current filtering state for the charts making it easy to understand exactly what is shown. As an example, in the screen capture below, there are no filters applied to the charts since all of the slicer buttons are active.</p>
+<p>Where in this dashboard should you click if you want to show only VanArsdel's manufactured goods in the charts? (Place the green pointer on the appropriate slicer button by clicking your mouse on the EXACT location - not just on the slicer)</p>
+  <imageresponse>
+    <imageinput src="/static/Lab1Q1.2.PNG" width="600" height="387" rectangle="(416,60)-(502,80)" alt="Map of     Africa"/>
+  </imageresponse>
+<solution>
+  <div class="detailed-solution">
+    <p>Explanation</p>
+    <p>To show only VanArsdel's manufactured good, select Y (Yes) in isVanArsdel slicer.</p>
+  </div>
+</solution>
+</problem>

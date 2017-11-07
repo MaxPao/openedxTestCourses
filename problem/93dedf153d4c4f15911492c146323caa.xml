@@ -1,0 +1,25 @@
+<problem display_name="Lab Question" markdown="Answer the following questions by using the chart you created.&#10;&#10;&gt;&gt;In which Month did VanArsdel perform the best in year 2014? &lt;&lt;&#10;( ) March&#10;( ) April&#10;(x) May &#10;( ) June&#10;&#10;&gt;&gt;What about in year 2013? &lt;&lt;&#10;( ) March&#10;( ) April&#10;(x) May &#10;( ) June&#10;&#10;" max_attempts="3">
+<p>Answer the following questions by using the chart you created.</p>
+
+<p>In which Month did VanArsdel perform the best in year 2014? </p>
+<multiplechoiceresponse>
+  <choicegroup label="In which Month did VanArsdel perform the best in year 2014? " type="MultipleChoice">
+    <choice correct="false">March</choice>
+    <choice correct="false">April</choice>
+    <choice correct="true">May</choice>
+    <choice correct="false">June</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>What about in year 2013? </p>
+<multiplechoiceresponse>
+  <choicegroup label="What about in year 2013? " type="MultipleChoice">
+    <choice correct="false">March</choice>
+    <choice correct="false">April</choice>
+    <choice correct="true">May</choice>
+    <choice correct="false">June</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

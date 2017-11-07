@@ -1,0 +1,40 @@
+<p>VanArsdel's US&nbsp;office stores the sales data on a SQL Database on Azure.&nbsp;You will need to perform analysis on that data, but before you can do so, you need to import the data to Excel data model and perform some pre-processing steps.</p>
+<p><strong><span style="color: #ff0000;">IMPORTANT!&nbsp;</span></strong>Before you start, if your locale settings is&nbsp;not English (United States), you might want to change this, since the data you will import is based on this locale. You can change this setting for the specific workbook. <span style="font-size: 1em; line-height: 1.6em;">If you use Excel 2010 or 2013, you can see the locale settings in the Power Query tab.&nbsp;</span><span style="font-size: 1em; line-height: 1.6em;">If you are using Excel 2016, it is under New Query / Query Options&nbsp;/ Data Load.</span></p>
+<p style="font-size: 16px;">1.<span class="Apple-tab-span" style="white-space: pre;"> </span>Start with a blank Excel file.</p>
+<p style="font-size: 16px;">2.<span class="Apple-tab-span" style="white-space: pre;"> </span>Import the data from the SQL Database by creating a new&nbsp;Query.</p>
+<p style="font-size: 16px;">Use the following information to connect to the SQL Database.</p>
+<ul style="line-height: 20.48px;">
+<ul>
+<li><span style="font-size: 1em; line-height: 1.6em;"><strong>Server</strong>: msedxeus.database.windows.net</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;"><strong>Database</strong>:&nbsp;DAT206x01</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;"><strong>Login</strong>: ExcelLogin (remember to select database login)</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;"><span style="font-size: 1em; line-height: 1.6em;"><strong>Password</strong>: P@ssw0rd<br /><br /></span></span>
+<p style="font-size: 16px;"><strong><span style="color: #ff0000;">IMPORTANT!&nbsp;</span></strong>If you cannot login, please try the following:</p>
+<span style="font-size: 1em; line-height: 1.6em;"><span style="font-size: 1em; line-height: 1.6em;"></span></span>
+<ul>
+<li>
+<div><span style="color: #000000;">Ensure you are not behind a firewall.</span></div>
+</li>
+<li>
+<div><span style="color: #000000;">Ensure you are using database login instead of windows login.</span></div>
+</li>
+<li>
+<div><span style="color: #000000;">Try typing the server details and credentials instead of copy pasting.</span></div>
+</li>
+</ul>
+</li>
+</ul>
+</ul>
+<p style="font-size: 16px;">3.<span class="Apple-tab-span" style="white-space: pre;"> </span>Select the following tables to be imported:&nbsp;<strong>Locations</strong>,&nbsp;<strong>Manufacturer</strong>,&nbsp;<strong>Products</strong>, and&nbsp;<strong>Sales</strong>&nbsp;(Hint: The Select multiple items option might be useful).</p>
+<p style="font-size: 16px;">4.<span class="Apple-tab-span" style="white-space: pre;"> </span>Edit the query before loading to the data model.</p>
+<p style="font-size: 16px;">5.<span class="Apple-tab-span" style="white-space: pre;"> </span>Filter the rows on the&nbsp;<strong>Sales</strong>&nbsp;table to include dates from January 1st, 2015. (Hint: filter Dates which are after&nbsp;<strong>12/31/2014</strong>).</p>
+<p style="font-size: 16px;">6. Name the Query "Sales".</p>
+<p style="font-size: 16px;">7.<span class="Apple-tab-span" style="white-space: pre;"> </span>Load the data into Excel data model. This might take a few minutes.</p>
+<p style="font-size: 16px;">8.<span class="Apple-tab-span" style="white-space: pre;"> </span>Open the Excel data model and explore the existing table relationships in the&nbsp;<strong>Diagram View</strong>.&nbsp;</p>
+<p><span style="color: #ff0000;"><strong>IMPORTANT!!</strong> </span>A recent change in query technology caused numerous issues impacting all three versions of Excel but primarily Excel 2013 and 2010. The software engineers are working on fixing this issue. In the meantime, if you have completed all steps of the query import (through step 7) and you see errors in any of your queries in the Workbook Queries pane, then you might need to try the workaround provided in the next unit. &nbsp;Examples of errors include &ldquo;Load to data model failed&rdquo; or simply &ldquo;1 Error&rdquo;.</p>
+<p style="font-size: 16px;"><span style="color: #ff0000;"><strong>ALTERNATIVE DATABASE</strong></span></p>
+<p><span style="color: #000000;">If you still cannot login to the SQL Azure Database, you may try the following alternatives:</span></p>
+<ul>
+<li><span style="color: #000000;">Restore the database to a local SQL server by using&nbsp;<a href="https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-Excel/raw/master/Module4/ExcelBI SQL Backup.zip" target="[object Object]">this</a> SQL backup file, and import the data from the local SQL server.</span></li>
+<li><span style="color: #000000;">Import the data from this&nbsp;access database (<a href="https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-Excel/raw/master/Module4/ExcelBI AccessDB Split.zip" target="[object Object]">part 1</a>, <a href="https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-Excel/raw/master/Module4/ExcelBI AccessDB Split.z01" target="[object Object]">part 2</a>, <a href="https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-Excel/raw/master/Module4/ExcelBI AccessDB Split.z02" target="[object Object]">part 3</a>).</span></li>
+</ul>

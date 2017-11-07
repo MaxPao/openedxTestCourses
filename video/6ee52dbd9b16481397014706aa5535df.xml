@@ -1,0 +1,9 @@
+<video youtube="1.00:Yr8UuZFsjmk" url_name="6ee52dbd9b16481397014706aa5535df" display_name="Power BI Mobile App" download_track="true" download_video="true" edx_video_id="234b47ac-95c2-475c-a91f-3fcdfcdbd833" html5_sources="[]" sub="Yr8UuZFsjmk" youtube_id_1_0="Yr8UuZFsjmk">
+  <video_asset client_video_id="MOD9.mp4" duration="435.41">
+    <encoded_video bitrate="322" file_size="17571047" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000900_DTH.mp4"/>
+    <encoded_video bitrate="215" file_size="11720293" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000900_MB1.mp4"/>
+    <encoded_video bitrate="131" file_size="7152299" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000900_MB2.mp4"/>
+    <encoded_video bitrate="192" file_size="10451658" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000900_AUD.mp3"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Yr8UuZFsjmk"/>
+  </video_asset>
+</video>

@@ -1,0 +1,33 @@
+<problem display_name="Lab Question 2" markdown="null" showanswer="finished">
+  
+   <customresponse>
+     <h3>Answer the following question by using the pivot table you created.</h3>
+     <p/>
+     <p>Including only the data for the year <strong>2007</strong>, show the ranking of the sales for the top four countries by dragging each country name into the appropriate box where box 1 is for the highest ranking and box 4 is for the lowest.</p>
+            <drag_and_drop_input img="/static/Rank.PNG">
+              <draggable id="1" label="Germany"/>
+              <draggable id="2" label="United Kingdom"/>
+              <draggable id="3" label="Australia"/>
+              <draggable id="4" label="United States"/>
+            </drag_and_drop_input>
+    <answer type="loncapa/python">
+correct_answer = {
+        '3':      [[72, 120], 70],
+        '4':      [[229, 120], 70],
+        '2':      [[383, 120], 70],
+        '1':     [[542, 120], 70]}
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+    </answer>
+</customresponse>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The correct sequence are Australia, United States, United Kingdom, and Germany</p>
+
+</div>
+</solution>    
+</problem>

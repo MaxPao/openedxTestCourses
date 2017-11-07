@@ -1,0 +1,25 @@
+<problem display_name="Lab Question" markdown="Answer the following questions by reviewing the imported data.&#10;&#10;&gt;&gt;How many rows were imported to the data model?&lt;&lt;&#10;&#10;= 5518&#10;&#10;&gt;&gt;How many columns were imported to the data model?&lt;&lt;&#10;&#10;= 14&#10;&#10;[explanation]&#10;14 columns and 5518 rows were imported to the data model.&#10;[explanation]&#10;" max_attempts="3">
+<p>Answer the following questions by reviewing the imported data.</p>
+
+<p>How many rows were imported to the data model?</p>
+
+<numericalresponse answer="5518">
+  <formulaequationinput label="How many rows were imported to the data model?"/>
+</numericalresponse>
+
+<p>How many columns were imported to the data model?</p>
+
+<numericalresponse answer="14">
+  <formulaequationinput label="How many columns were imported to the data model?"/>
+</numericalresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>14 columns and 5518 rows were imported to the data model.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,23 @@
+<problem display_name="Question 2" markdown="You are importing data from a SQL database to Excel 2016 by using queries. There are four tables in the SQL database. Three of the tables have relationships defined between them. You select two tables to be imported, including the one without table relationships. You load the data into Excel data model and define a table relationship between the two tables. &#10;&#10;&gt;&gt;Where is this new table relationship kept?&lt;&lt;&#10;&#10;(x)&#9;Only in the Excel data model&#10;( )&#9;In both the Excel data model and SQL database &#10;( )&#9;Only in the SQL database&#10;( )&#9;Only in the Query Editor&#10;&#10;[explanation]&#10;The new table relationship is kept only in the Excel data model.&#10;[explanation]&#10;">
+<p>You are importing data from a SQL database to Excel 2016 by using queries. There are four tables in the SQL database. Three of the tables have relationships defined between them. You select two tables to be imported, including the one without table relationships. You load the data into Excel data model and define a table relationship between the two tables. </p>
+
+<p>Where is this new table relationship kept?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Where is this new table relationship kept?" type="MultipleChoice">
+    <choice correct="true">Only in the Excel data model</choice>
+    <choice correct="false">In both the Excel data model and SQL database</choice>
+    <choice correct="false">Only in the SQL database</choice>
+    <choice correct="false">Only in the Query Editor</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The new table relationship is kept only in the Excel data model.</p>
+
+</div>
+</solution>
+
+</problem>

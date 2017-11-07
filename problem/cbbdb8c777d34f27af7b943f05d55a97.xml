@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;What three data pre-processing steps can be done in the Query Editor?&lt;&lt;&#10;&#10;[ ]&#9;Rename source file&#10;[x]&#9;Remove columns&#10;[x]&#9;Split column&#10;[x]&#9;Replace values&#10;&#10;[explanation]&#10;You cannot rename the source file from the Query Editor.&#10;[explanation]&#10;">
+<p>What three data pre-processing steps can be done in the Query Editor?</p>
+<choiceresponse>
+  <checkboxgroup label="What three data pre-processing steps can be done in the Query Editor?">
+    <choice correct="false">Rename source file</choice>
+    <choice correct="true">Remove columns</choice>
+    <choice correct="true">Split column</choice>
+    <choice correct="true">Replace values</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You cannot rename the source file from the Query Editor.</p>
+
+</div>
+</solution>
+
+</problem>

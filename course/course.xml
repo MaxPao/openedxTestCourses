@@ -1,0 +1,13 @@
+<course advertised_start="null" allow_anonymous="false" cert_html_view_enabled="true" certificates="{&quot;certificates&quot;: [{&quot;description&quot;: &quot;Description of the certificate&quot;, &quot;is_active&quot;: true, &quot;signatories&quot;: [{&quot;name&quot;: &quot;Satya Nadella&quot;, &quot;certificate&quot;: 63523932, &quot;title&quot;: &quot;Chief Executive Officer&quot;, &quot;organization&quot;: &quot;Microsoft Corporation&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Satya_Signature.png&quot;, &quot;id&quot;: 654407677}, {&quot;name&quot;: &quot;Bj\u00f6rn Rettig&quot;, &quot;certificate&quot;: 63523932, &quot;title&quot;: &quot;Senior Director Technical Content&quot;, &quot;organization&quot;: &quot;Microsoft Corporation&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Bjorn_Signature.png&quot;, &quot;id&quot;: 1095733910}, {&quot;name&quot;: &quot;Dany Hoter&quot;, &quot;certificate&quot;: 63523932, &quot;title&quot;: &quot;Sr. Program Manager&quot;, &quot;organization&quot;: &quot;Microsoft Corporation&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@signature.png&quot;, &quot;id&quot;: 1537416783}], &quot;version&quot;: 1, &quot;id&quot;: 63523932, &quot;name&quot;: &quot;Name of the certificate&quot;}]}" certificates_display_behavior="early_no_info" course_image="Excel2.png" days_early_for_beta="60.0" display_name="Analyzing and Visualizing Data with Excel" end="&quot;2016-08-26T00:00:00+00:00&quot;" enrollment_end="&quot;2016-08-19T00:00:00+00:00&quot;" enrollment_start="null" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" max_attempts="2" minimum_grade_credit="0.8" mobile_available="true" self_paced="true" start="&quot;2016-07-18T00:00:00+00:00&quot;" video_upload_pipeline="{&quot;course_video_upload_token&quot;: &quot;2bb7625150d611e5ad46406c8fb7d690&quot;}">
+  <chapter url_name="a6ee34e76a2647e8b77ecf410d4d361d"/>
+  <chapter url_name="414d7bcf7c874df496654ba20d803072"/>
+  <chapter url_name="8d9b717dde744fb183d30d14fd7dac84"/>
+  <chapter url_name="bf5fd2cd72ee410d95ca17f4e83ca208"/>
+  <chapter url_name="9a3c8d7a4abd45829667d8c0228c16c9"/>
+  <chapter url_name="81c533956fb8433e99f54dd43d949eb5"/>
+  <chapter url_name="80247d7bde784d78b07fd6bec44bae08"/>
+  <chapter url_name="dc76459e6cb84e0384b354637c6462fc"/>
+  <chapter url_name="44e88db5a86e4a258c6e2b005af90f9f"/>
+  <chapter url_name="3f63b8e49e92441bb0ac014a2a5f3db5"/>
+  <wiki slug="Microsoft.DAT206x.5T2016"/>
+</course>

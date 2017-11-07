@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;Which are two ways to create a calendar table in Excel 2016 that will be used with the data model?&lt;&lt;&#10;&#10;[ ]&#9;Type a date in the worksheet and use an Excel formula .&#10;[x]&#9;Create a calendar table in the worksheet and add it to the Excel data model.&#10;[x]&#9;Use the New Date Table function from the Design tab of the Power Pivot for Excel window.&#10;[ ]&#9;Copy a Date column from any transaction or fact table and paste it to an Excel worksheet.&#10;&#10;[explanation]&#10;You can create a calendar table in an Excel sheet and then add it to the Excel data model. If you are using Excel 2016, you can use the New Date Table function from the Design tab of the Power Pivot for Excel window. &#10;[explanation]&#10;">
+<p>Which are two ways to create a calendar table in Excel 2016 that will be used with the data model?</p>
+<choiceresponse>
+  <checkboxgroup label="Which are two ways to create a calendar table in Excel 2016 that will be used with the data model?">
+    <choice correct="false">Type a date in the worksheet and use an Excel formula .</choice>
+    <choice correct="true">Create a calendar table in the worksheet and add it to the Excel data model.</choice>
+    <choice correct="true">Use the New Date Table function from the Design tab of the Power Pivot for Excel window.</choice>
+    <choice correct="false">Copy a Date column from any transaction or fact table and paste it to an Excel worksheet.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can create a calendar table in an Excel sheet and then add it to the Excel data model. If you are using Excel 2016, you can use the New Date Table function from the Design tab of the Power Pivot for Excel window. </p>
+
+</div>
+</solution>
+
+</problem>

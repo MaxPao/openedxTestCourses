@@ -1,0 +1,25 @@
+<problem display_name="Lab Question 2" markdown="Answer the following questions by using the charts you created. (Hint: Use the slicers)&#10;&#10;&gt;&gt;In year 2014, which Manufacturer has the most sales for Youth Category?&lt;&lt;&#10;(x) Natura&#10;( ) Aliqui&#10;( ) VanArsdel&#10;( ) Pomum&#10;&#10;&gt;&gt;What is the percentage of that Manufacturer?&lt;&lt;&#10;( ) 27.50%&#10;(x) 28.50%&#10;( ) 29.50%&#10;( ) 30.50%" max_attempts="3">
+<p>Answer the following questions by using the charts you created. (Hint: Use the slicers)</p>
+
+<p>In year 2014, which Manufacturer has the most sales for Youth Category?</p>
+<multiplechoiceresponse>
+  <choicegroup label="In year 2014, which Manufacturer has the most sales for Youth Category?" type="MultipleChoice">
+    <choice correct="true">Natura</choice>
+    <choice correct="false">Aliqui</choice>
+    <choice correct="false">VanArsdel</choice>
+    <choice correct="false">Pomum</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>What is the percentage of that Manufacturer?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the percentage of that Manufacturer?" type="MultipleChoice">
+    <choice correct="false">27.50%</choice>
+    <choice correct="true">28.50%</choice>
+    <choice correct="false">29.50%</choice>
+    <choice correct="false">30.50%</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

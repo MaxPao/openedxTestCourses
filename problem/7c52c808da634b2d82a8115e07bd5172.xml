@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;Which two ways connect a slicer to an existing pivot table?&lt;&lt;&#10;&#10;[ ]&#9;From PivotTable Tools’ Analyze tab, select Options.&#10;[x]&#9;From PivotTable Tools’ Analyze tab, select Filter Connections.&#10;[x]&#9;From Slicer Tools’ Options tab, select Report Connections.&#10;[ ]&#9;From Slicer Tools’ Options tab, select Slicer Settings. &#10;&#10;[explanation]&#10;The second and third options are correct.&#10;[explanation]&#10;">
+<p>Which two ways connect a slicer to an existing pivot table?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two ways connect a slicer to an existing pivot table?">
+    <choice correct="false">From PivotTable Tools’ Analyze tab, select Options.</choice>
+    <choice correct="true">From PivotTable Tools’ Analyze tab, select Filter Connections.</choice>
+    <choice correct="true">From Slicer Tools’ Options tab, select Report Connections.</choice>
+    <choice correct="false">From Slicer Tools’ Options tab, select Slicer Settings. </choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The second and third options are correct.</p>
+
+</div>
+</solution>
+
+</problem>

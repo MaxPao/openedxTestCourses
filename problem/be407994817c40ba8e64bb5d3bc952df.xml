@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;Which three file formats are valid input for queries From File?&lt;&lt;&#10;&#10;[x]&#9;Excel file&#10;[x]&#9;CSV file&#10;[x]&#9;XML file&#10;[ ]&#9;BMP file&#10;&#10;[explanation]&#10;BMP files are not valid input for Excel queries.&#10;[explanation]&#10;">
+<p>Which three file formats are valid input for queries From File?</p>
+<choiceresponse>
+  <checkboxgroup label="Which three file formats are valid input for queries From File?">
+    <choice correct="true">Excel file</choice>
+    <choice correct="true">CSV file</choice>
+    <choice correct="true">XML file</choice>
+    <choice correct="false">BMP file</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>BMP files are not valid input for Excel queries.</p>
+
+</div>
+</solution>
+
+</problem>

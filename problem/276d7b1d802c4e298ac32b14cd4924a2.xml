@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;Which feature in Query Editor should you use to create table headers from one of the rows?&lt;&lt;&#10;&#10;( )&#9;Reverse Rows&#10;(x)&#9;Use First Row As Headers&#10;( )&#9;Use Headers As First Row&#10;( )&#9;Transpose&#10;&#10;[explanation]&#10;You can use the Use First Row As Headers feature to create table header from the first row of the table.&#10;[explanation]&#10;">
+<p>Which feature in Query Editor should you use to create table headers from one of the rows?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which feature in Query Editor should you use to create table headers from one of the rows?" type="MultipleChoice">
+    <choice correct="false">Reverse Rows</choice>
+    <choice correct="true">Use First Row As Headers</choice>
+    <choice correct="false">Use Headers As First Row</choice>
+    <choice correct="false">Transpose</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can use the Use First Row As Headers feature to create table header from the first row of the table.</p>
+
+</div>
+</solution>
+
+</problem>

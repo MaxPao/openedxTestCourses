@@ -1,0 +1,49 @@
+<problem display_name="Lab Question" markdown="Once you have created the pivot table, you can analyze the performance of VanArsdel's manufactured goods for each State. (Hint: refer back to the Lab Overview for the discussion on the purpose of the isVanArsdel field).&#10;&#10;&gt;&gt;What is the percentage of VanArsdel's manufactured goods sold in Alberta? (to two decimal places in the format 00.00, without the % sign)&lt;&lt;&#10;&#10;= 47.77&#10;or= 47,77&#10;or= 47.78&#10;or= 47,78&#10;or= 47.76&#10;or= 47,76&#10;&#10;[explanation]&#10;47.77%&#10;[explanation]&#10;&#10;&gt;&gt;What is the percentage of VanArsdel's manufactured goods sold in Manitoba? (to two decimal places in the format 00.00, without the % sign)&lt;&lt;&#10;&#10;= 47.21&#10;or= 47,21&#10;or= 47.20&#10;or= 47,20&#10;or= 47.22&#10;or= 47,22&#10;&#10;[explanation]&#10;47.21%&#10;[explanation]&#10;&#10;&gt;&gt;What is the percentage of VanArsdel's manufactured goods sold in Quebec? (to two decimal places in the format 00.00, without the % sign)&lt;&lt;&#10;&#10;= 51.46&#10;or= 51,46&#10;or= 51.45&#10;or= 51,45&#10;or= 51.47&#10;or= 51,47&#10;&#10;[explanation]&#10;51.46%&#10;[explanation]&#10;" max_attempts="4">
+<p>Once you have created the pivot table, you can analyze the performance of VanArsdel's manufactured goods for each State. (Hint: refer back to the Lab Overview for the discussion on the purpose of the isVanArsdel field).</p>
+
+<p>What is the percentage of VanArsdel's manufactured goods sold in Alberta? (to two decimal places in the format 00.00, without the % sign)</p>
+
+<numericalresponse answer="47.77">
+  <formulaequationinput label="What is the percentage of VanArsdel's manufactured goods sold in Alberta? (to two decimal places in the format 00.00, without the % sign)"/>
+</numericalresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>47.77%</p>
+
+</div>
+</solution>
+
+<p>What is the percentage of VanArsdel's manufactured goods sold in Manitoba? (to two decimal places in the format 00.00, without the % sign)</p>
+
+<numericalresponse answer="47.21">
+  <formulaequationinput label="What is the percentage of VanArsdel's manufactured goods sold in Manitoba? (to two decimal places in the format 00.00, without the % sign)"/>
+</numericalresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>47.21%</p>
+
+</div>
+</solution>
+
+<p>What is the percentage of VanArsdel's manufactured goods sold in Quebec? (to two decimal places in the format 00.00, without the % sign)</p>
+
+<numericalresponse answer="51.46">
+  <formulaequationinput label="What is the percentage of VanArsdel's manufactured goods sold in Quebec? (to two decimal places in the format 00.00, without the % sign)"/>
+</numericalresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>51.46%</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;What does DAX stand for?&lt;&lt;&#10;&#10;( )&#9;Data Analysis Equations&#10;( )&#9;Data Analysis Expert&#10;(x)&#9;Data Analysis Expressions&#10;( )&#9;Data Analysis Extraction&#10;&#10;[explanation]&#10;DAX stands for Data Analysis Expressions.&#10;[explanation]&#10;">
+<p>What does DAX stand for?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What does DAX stand for?" type="MultipleChoice">
+    <choice correct="false">Data Analysis Equations</choice>
+    <choice correct="false">Data Analysis Expert</choice>
+    <choice correct="true">Data Analysis Expressions</choice>
+    <choice correct="false">Data Analysis Extraction</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>DAX stands for Data Analysis Expressions.</p>
+
+</div>
+</solution>
+
+</problem>

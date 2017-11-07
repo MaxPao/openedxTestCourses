@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;Why would you import data from an existing formatted Excel report?&lt;&lt;&#10;&#10;( )&#9;It is faster than to importing from a SQL database.&#10;(x)&#9;It allows you to perform additional analysis when you do not have access to the source data.&#10;( )&#9;Excel cannot import from a text file.&#10;( )&#9;It allows you to perform additional analysis even if the Excel file is read only.&#10;&#10;[explanation]&#10;Typically, you would want to import data directly from the data source. When this is not available, you might need to improvise and one of the ways is to import data from an existing formatted Excel report.&#10;[explanation]&#10;">
+<p>Why would you import data from an existing formatted Excel report?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Why would you import data from an existing formatted Excel report?" type="MultipleChoice">
+    <choice correct="false">It is faster than to importing from a SQL database.</choice>
+    <choice correct="true">It allows you to perform additional analysis when you do not have access to the source data.</choice>
+    <choice correct="false">Excel cannot import from a text file.</choice>
+    <choice correct="false">It allows you to perform additional analysis even if the Excel file is read only.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Typically, you would want to import data directly from the data source. When this is not available, you might need to improvise and one of the ways is to import data from an existing formatted Excel report.</p>
+
+</div>
+</solution>
+
+</problem>

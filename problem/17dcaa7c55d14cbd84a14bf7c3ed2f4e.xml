@@ -1,0 +1,30 @@
+<problem display_name="Lab Question 2" markdown="Answer the following question by reviewing the Workbook Queries.&#10;&#10;&gt;&gt;How many rows were imported from the Locations table?&lt;&lt;&#10;&#10;= 99618&#10;&#10;&gt;&gt;How many rows were imported from the Manufacturer table?&lt;&lt;&#10;&#10;= 14&#10;&#10;&gt;&gt;How many rows were imported from the Products table?&lt;&lt;&#10;&#10;= 2412&#10;&#10;&gt;&gt;How many rows were imported from the Sales table?&lt;&lt;&#10;&#10;= 215151&#10;&#10;&#10;" max_attempts="4">
+<p>Answer the following question by reviewing the Workbook Queries.</p>
+
+<p>How many rows were imported from the Locations table?</p>
+
+<numericalresponse answer="99618">
+  <formulaequationinput label="How many rows were imported from the Locations table?"/>
+</numericalresponse>
+
+<p>How many rows were imported from the Manufacturer table?</p>
+
+<numericalresponse answer="14">
+  <formulaequationinput label="How many rows were imported from the Manufacturer table?"/>
+</numericalresponse>
+
+<p>How many rows were imported from the Products table?</p>
+
+<numericalresponse answer="2412">
+  <formulaequationinput label="How many rows were imported from the Products table?"/>
+</numericalresponse>
+
+<p>How many rows were imported from the Sales table?</p>
+
+<numericalresponse answer="215151">
+  <formulaequationinput label="How many rows were imported from the Sales table?"/>
+</numericalresponse>
+
+
+
+</problem>

@@ -1,0 +1,35 @@
+<problem display_name="Lab Question 1" markdown="&gt;&gt;Which district has the most total sales (highest revenue)?&lt;&lt;&#10;( ) District 01&#10;( ) District 02&#10;( ) District 03&#10;( ) District 21&#10;( ) District 22&#10;(x) District 23&#10;&#10;&gt;&gt;Which district has the least total sales (lowest revenue)?&lt;&lt;&#10;( ) District 01&#10;(x) District 02&#10;( ) District 03&#10;( ) District 21&#10;( ) District 22&#10;( ) District 23&#10;&#10;[explanation]&#10;District 23 has the most sales while District 02 has the least sales. You can view this by creating a pivot table using District as Rows, Sum of Revenue as Values, and sort the table by Sum of Revenue. &#10;[explanation]&#10;" max_attempts="3">
+<p>Which district has the most total sales (highest revenue)?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which district has the most total sales (highest revenue)?" type="MultipleChoice">
+    <choice correct="false">District 01</choice>
+    <choice correct="false">District 02</choice>
+    <choice correct="false">District 03</choice>
+    <choice correct="false">District 21</choice>
+    <choice correct="false">District 22</choice>
+    <choice correct="true">District 23</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which district has the least total sales (lowest revenue)?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which district has the least total sales (lowest revenue)?" type="MultipleChoice">
+    <choice correct="false">District 01</choice>
+    <choice correct="true">District 02</choice>
+    <choice correct="false">District 03</choice>
+    <choice correct="false">District 21</choice>
+    <choice correct="false">District 22</choice>
+    <choice correct="false">District 23</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>District 23 has the most sales while District 02 has the least sales. You can view this by creating a pivot table using District as Rows, Sum of Revenue as Values, and sort the table by Sum of Revenue. </p>
+
+</div>
+</solution>
+
+</problem>

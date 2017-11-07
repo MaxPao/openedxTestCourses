@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;What are the two ways of using Excel with Power BI?&lt;&lt;&#10;&#10;[x]&#9;Import Excel data into Power BI&#10;[ ]&#9;Import Excel connection into Power BI&#10;[ ]&#9;Import Excel charts into Power BI&#10;[x]&#9;Connect, Manage, and View Excel in Power BI &#10;&#10;[explanation]&#10;You can either import your Excel data to Power BI or connect, manage and view the Excel workbook in Power BI.&#10;[explanation]&#10;">
+<p>What are the two ways of using Excel with Power BI?</p>
+<choiceresponse>
+  <checkboxgroup label="What are the two ways of using Excel with Power BI?">
+    <choice correct="true">Import Excel data into Power BI</choice>
+    <choice correct="false">Import Excel connection into Power BI</choice>
+    <choice correct="false">Import Excel charts into Power BI</choice>
+    <choice correct="true">Connect, Manage, and View Excel in Power BI </choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can either import your Excel data to Power BI or connect, manage and view the Excel workbook in Power BI.</p>
+
+</div>
+</solution>
+
+</problem>

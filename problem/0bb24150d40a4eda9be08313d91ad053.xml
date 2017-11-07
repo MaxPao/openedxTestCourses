@@ -1,0 +1,24 @@
+<problem display_name="Lab Question 3" markdown="Answer the following question by reviewing the data source for the dashboard objects (Hint: you may have to consider the source from formulas as well).&#10;&#10;&gt;&gt;Where does the product's categories and segments data come from? (Select two that apply)&lt;&lt;&#10;[ ] SQL database&#10;[ ] Excel data model&#10;[x] Sales Worksheet&#10;[x] Products Worksheet&#10;[ ] Dashboard - CA Worksheet&#10;&#10;[explanation]&#10;The product's categories and segments come from the Sales table in the Sales Worksheet. They are derived using VLOOKUP formula from the Products table in the Products Worksheet.&#10;[explanation]&#10;">
+<p>Answer the following question by reviewing the data source for the dashboard objects (Hint: you may have to consider the source from formulas as well).</p>
+
+<p>Where does the product's categories and segments data come from? (Select two that apply)</p>
+<choiceresponse>
+  <checkboxgroup label="Where does the product's categories and segments data come from? (Select two that apply)">
+    <choice correct="false">SQL database</choice>
+    <choice correct="false">Excel data model</choice>
+    <choice correct="true">Sales Worksheet</choice>
+    <choice correct="true">Products Worksheet</choice>
+    <choice correct="false">Dashboard - CA Worksheet</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The product's categories and segments come from the Sales table in the Sales Worksheet. They are derived using VLOOKUP formula from the Products table in the Products Worksheet.</p>
+
+</div>
+</solution>
+
+</problem>

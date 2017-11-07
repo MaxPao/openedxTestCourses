@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;What language is supported in the Natural Language Q and A feature in Power BI?&lt;&lt;&#10;( ) German&#10;( ) French&#10;(x) English&#10;( ) Danish&#10;&#10;[explanation]&#10;The Natural Language Q and A supports English language.&#10;[explanation]&#10;">
+<p>What language is supported in the Natural Language Q and A feature in Power BI?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What language is supported in the Natural Language Q and A feature in Power BI?" type="MultipleChoice">
+    <choice correct="false">German</choice>
+    <choice correct="false">French</choice>
+    <choice correct="true">English</choice>
+    <choice correct="false">Danish</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The Natural Language Q and A supports English language.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;What are two reasons for adding hierarchies in the Excel data model?&lt;&lt;&#10;&#10;[ ]&#9;To enable additional filtering capabilities&#10;[x]&#9;To make it easier for users to select and navigate common paths of data when creating reports and pivot tables&#10;[x]&#9;To provide logical drill-down capabilities to your reports&#10;[ ]&#9;To create additional relationships between the tables in the data model.&#10;&#10;[explanation]&#10;With hierarchies, you can easily select and navigate data when creating reports and pivot tables. In addition, you will be able to use drill-down capabilities in your reports.&#10;[explanation]&#10;">
+<p>What are two reasons for adding hierarchies in the Excel data model?</p>
+<choiceresponse>
+  <checkboxgroup label="What are two reasons for adding hierarchies in the Excel data model?">
+    <choice correct="false">To enable additional filtering capabilities</choice>
+    <choice correct="true">To make it easier for users to select and navigate common paths of data when creating reports and pivot tables</choice>
+    <choice correct="true">To provide logical drill-down capabilities to your reports</choice>
+    <choice correct="false">To create additional relationships between the tables in the data model.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>With hierarchies, you can easily select and navigate data when creating reports and pivot tables. In addition, you will be able to use drill-down capabilities in your reports.</p>
+
+</div>
+</solution>
+
+</problem>

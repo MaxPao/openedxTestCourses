@@ -1,0 +1,23 @@
+<problem display_name="Lab Question" markdown="Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators, if the answer is negative then include the negative sign). Calculate the numbers without any context, either from the Power Pivot window or a pivot table with only measures. After you answer these questions, you can experiment with using these measures in pivot tables with a slicer on years or with years on rows/columns.&#10;&#10;&gt;&gt;What is the figure for the YTD Sales measure? (to two decimal points)&lt;&lt;&#10;&#10;= 259271739.77&#10;or= 259271739,77&#10;or= 259271739.78&#10;or= 259271739,78&#10;or= 259271739.76&#10;or= 259271739,76&#10;&#10;&gt;&gt;What is the figure for the LY YTD Sales measure? (to two decimal points)&lt;&lt;&#10;&#10;= 501870269.88&#10;or= 501870269,88&#10;or= 501870269.89&#10;or= 501870269,89&#10;or= 501870269.87&#10;or= 501870269,87&#10;&#10;&gt;&gt;What is the figure for the YTD Sales Var % measure? (to two decimal places in the format 00.00)&lt;&lt;&#10;&#10;= -48.34&#10;or= -48,34&#10;or= -48.35&#10;or= -48,35&#10;or= -48.33&#10;or= -48,33&#10;or= 48.34&#10;or= 48,34&#10;or= 48.35&#10;or= 48,35&#10;or= 48.33&#10;or= 48,33" max_attempts="3">
+<p>Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators, if the answer is negative then include the negative sign). Calculate the numbers without any context, either from the Power Pivot window or a pivot table with only measures. After you answer these questions, you can experiment with using these measures in pivot tables with a slicer on years or with years on rows/columns.</p>
+
+<p>What is the figure for the YTD Sales measure? (to two decimal points)</p>
+
+<numericalresponse answer="259271739.77">
+  <formulaequationinput label="What is the figure for the YTD Sales measure? (to two decimal points)"/>
+</numericalresponse>
+
+<p>What is the figure for the LY YTD Sales measure? (to two decimal points)</p>
+
+<numericalresponse answer="501870269.88">
+  <formulaequationinput label="What is the figure for the LY YTD Sales measure? (to two decimal points)"/>
+</numericalresponse>
+
+<p>What is the figure for the YTD Sales Var % measure? (to two decimal places in the format 00.00)</p>
+
+<numericalresponse answer="-48.34">
+  <formulaequationinput label="What is the figure for the YTD Sales Var % measure? (to two decimal places in the format 00.00)"/>
+</numericalresponse>
+
+
+</problem>

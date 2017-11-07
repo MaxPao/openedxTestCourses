@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;Where are data pre-processing steps recorded in the Query Editor?&lt;&lt;&#10;&#10;( )&#9;In a separate .ps file&#10;(x)&#9;In the list of Applied Steps section&#10;( )&#9;In a separate .vbs script file&#10;( )&#9;In the Query Editor settings &#10;&#10;[explanation]&#10;The pre-processing steps are recorded in the list of Applied Steps section in the Query Editor.&#10;[explanation]&#10;">
+<p>Where are data pre-processing steps recorded in the Query Editor?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Where are data pre-processing steps recorded in the Query Editor?" type="MultipleChoice">
+    <choice correct="false">In a separate .ps file</choice>
+    <choice correct="true">In the list of Applied Steps section</choice>
+    <choice correct="false">In a separate .vbs script file</choice>
+    <choice correct="false">In the Query Editor settings</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The pre-processing steps are recorded in the list of Applied Steps section in the Query Editor.</p>
+
+</div>
+</solution>
+
+</problem>

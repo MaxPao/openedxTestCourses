@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;What are the components of a Power BI dashboard?&lt;&lt;&#10;&#10;( )&#9;Charts&#10;( )&#9;Tables&#10;(x)&#9;Tiles&#10;( )&#9;Queries&#10;&#10;[explanation]&#10;Power BI dashboard is made of tiles.&#10;[explanation]&#10;">
+<p>What are the components of a Power BI dashboard?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What are the components of a Power BI dashboard?" type="MultipleChoice">
+    <choice correct="false">Charts</choice>
+    <choice correct="false">Tables</choice>
+    <choice correct="true">Tiles</choice>
+    <choice correct="false">Queries</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Power BI dashboard is made of tiles.</p>
+
+</div>
+</solution>
+
+</problem>

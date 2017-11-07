@@ -1,0 +1,19 @@
+<problem display_name="Survey Acknowledgement" markdown="&gt;&gt;Have you completed the pre-course survey?&lt;&lt;&#10;(x) Yes&#10;( ) No {{Please complete the pre-course survey}}&#10;&#10;[explanation]&#10;Thank you for completing the pre-course survey.&#10;[explanation]&#10;">
+<p>Have you completed the pre-course survey?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Have you completed the pre-course survey?" type="MultipleChoice">
+    <choice correct="true">Yes</choice>
+    <choice correct="false">No <choicehint>Please complete the pre-course survey</choicehint></choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Thank you for completing the pre-course survey.</p>
+
+</div>
+</solution>
+
+</problem>

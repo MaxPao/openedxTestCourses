@@ -1,0 +1,12 @@
+<h2>Using Non-Supported Excel 2013</h2>
+<p>Credit to LeonidasT, a fellow learner from the previous run of the course.</p>
+<p><em>"I just found a way to go around the problem and do the exercises of Module 2 just fine. I have an Excel 2013 and no PowerPivot. If you are interested try the following. It's a little cumbersome but you'll enjoy the result!"</em></p>
+<ol>
+<li><span style="font-size: 1em; line-height: 1.6em;">Open the file normally. As expected a blank sheet appears with the Data Model hidden.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Go to: Insert &gt; Pivot Table &gt; Use an external data source &gt; Choose connection and open the only connection available in the workbook (the Data Model)<br /></span>Now you have a blank Pivot Table connected to the Data Model.</li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Left-click outside the Pivot Table in order to take away the Pivot Table fields on the right-hand side.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Go to: Data &gt; Existing Connections and like in step 2, open the only connection available. You are asked how to import the data. Select Table &gt; OK and all the tables from the Data Models are imported in Excel, each table in a separate Sheet.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">The new sheets with the DM tables are named: Sheet2, Sheet3 etc. Go back to Sheet1, left-click on the empty PivotTable and copy the table names to the corresponding newly created sheets. One good thing is that the new sheets are created with the same order you see the tables in the Pivot Table Fields on the right hand.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Now you have all the necessary data, but the tables are not linked (relationships). Let's fix that by opening: Data &gt; Relationships. In the window you see all the relationships between the tables in the Data Model. What you want is to create relationships between the NEW tables in Excel. So click New and create the new relationships needed, just by copying the ones from the Data Model.<br /></span>Check out that the new tables have a "Table_" prefix before the name. Don't get mixed up the the Data Model tables. From now on you forget about them and you work with your new model in Excel, not Power Pivot.</li>
+<li><span style="font-size: 1em; line-height: 1.6em;">You're done. Now you can do as instructed in the course and the exercise and complete the lab.</span></li>
+</ol>

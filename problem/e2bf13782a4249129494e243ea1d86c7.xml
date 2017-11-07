@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;Which statement describes an implicit measure? &lt;&lt;&#10;&#10;( )&#9;An implicit measure is one that you create manually.&#10;( )&#9;An implicit measure is one that comes from outside the data model&#10;(x)&#9;An implicit measure is one that Excel generates for you when you add fields to the Values area of a pivot table.&#10;( )&#9;An implicit measure is one that you create using MDX formulas.&#10;&#10;[explanation]&#10;An implicit measure is one that Excel generates for you when you add fields to the Values area of a pivot table.&#10;[explanation]&#10;">
+<p>Which statement describes an implicit measure? </p>
+<multiplechoiceresponse>
+  <choicegroup label="Which statement describes an implicit measure? " type="MultipleChoice">
+    <choice correct="false">An implicit measure is one that you create manually.</choice>
+    <choice correct="false">An implicit measure is one that comes from outside the data model</choice>
+    <choice correct="true">An implicit measure is one that Excel generates for you when you add fields to the Values area of a pivot table.</choice>
+    <choice correct="false">An implicit measure is one that you create using MDX formulas.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>An implicit measure is one that Excel generates for you when you add fields to the Values area of a pivot table.</p>
+
+</div>
+</solution>
+
+</problem>

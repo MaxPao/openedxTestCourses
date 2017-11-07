@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;In the Diagram view of the Excel data model, what does a line between two tables represent?&lt;&lt;&#10;&#10;( )&#9;Data flow&#10;( )&#9;Duplicate information&#10;(x)&#9;Table relationship&#10;( )&#9;Data types&#10;&#10;[explanation]&#10;In Excel data model's diagram view, a line represent a relation between two tables.&#10;[explanation]&#10;">
+<p>In the Diagram view of the Excel data model, what does a line between two tables represent?</p>
+<multiplechoiceresponse>
+  <choicegroup label="In the Diagram view of the Excel data model, what does a line between two tables represent?" type="MultipleChoice">
+    <choice correct="false">Data flow</choice>
+    <choice correct="false">Duplicate information</choice>
+    <choice correct="true">Table relationship</choice>
+    <choice correct="false">Data types</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In Excel data model's diagram view, a line represent a relation between two tables.</p>
+
+</div>
+</solution>
+
+</problem>

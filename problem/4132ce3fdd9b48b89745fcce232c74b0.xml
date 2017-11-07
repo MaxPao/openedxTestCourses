@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;What are three reasons to use tables in Excel?&lt;&lt;&#10;&#10;[ ]&#9;To prevent accidental deletion of rows or columns.&#10;[x]&#9;To manage data in rows and columns in the worksheet independently.&#10;[x]&#9;To improve maintenance by creating expressions that refer to column names.&#10;[x]&#9;To quickly format table data by applying a predefined or custom table style.&#10;&#10;[explanation]&#10;Using Excel tables does not prevent you to accidentally delete any rows or columns.&#10;[explanation]&#10;">
+<p>What are three reasons to use tables in Excel?</p>
+<choiceresponse>
+  <checkboxgroup label="What are three reasons to use tables in Excel?">
+    <choice correct="false">To prevent accidental deletion of rows or columns.</choice>
+    <choice correct="true">To manage data in rows and columns in the worksheet independently.</choice>
+    <choice correct="true">To improve maintenance by creating expressions that refer to column names.</choice>
+    <choice correct="true">To quickly format table data by applying a predefined or custom table style.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Using Excel tables does not prevent you to accidentally delete any rows or columns.</p>
+
+</div>
+</solution>
+
+</problem>

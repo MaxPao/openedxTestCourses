@@ -1,0 +1,23 @@
+<problem display_name="Question 5" markdown="You have four CSV files that are located in the same folder. All four of the CSV files have the same file structure. &#10;&#10;&gt;&gt;What is the minimum number of queries you need to create to import three  of the CSV files?&lt;&lt;&#10;&#10;(x)&#9;One&#10;( )&#9;Two&#10;( )&#9;Three&#10;( )&#9;Four&#10;&#10;[explanation]&#10;You can import multiple CSV files that are located in the same folder and have the same file structure in a single query.&#10;[explanation]&#10;">
+<p>You have four CSV files that are located in the same folder. All four of the CSV files have the same file structure. </p>
+
+<p>What is the minimum number of queries you need to create to import three  of the CSV files?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the minimum number of queries you need to create to import three  of the CSV files?" type="MultipleChoice">
+    <choice correct="true">One</choice>
+    <choice correct="false">Two</choice>
+    <choice correct="false">Three</choice>
+    <choice correct="false">Four</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can import multiple CSV files that are located in the same folder and have the same file structure in a single query.</p>
+
+</div>
+</solution>
+
+</problem>

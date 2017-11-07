@@ -1,0 +1,25 @@
+<problem display_name="Lab Question 1" markdown="Answer the following questions by using the charts you created. (Hint: Use the slicers)&#10;&#10;&gt;&gt;In year 2013, which Category has the most sales from Abbas Manufacturer goods?&lt;&lt;&#10;( ) Mix&#10;( ) Rural&#10;(x) Urban&#10;( ) Youth&#10;&#10;&gt;&gt;What is the percentage of that category?&lt;&lt;&#10;( ) 53.38%&#10;( ) 55.38%&#10;(x) 57.38%&#10;( ) 59.38%&#10;&#10;" max_attempts="3">
+<p>Answer the following questions by using the charts you created. (Hint: Use the slicers)</p>
+
+<p>In year 2013, which Category has the most sales from Abbas Manufacturer goods?</p>
+<multiplechoiceresponse>
+  <choicegroup label="In year 2013, which Category has the most sales from Abbas Manufacturer goods?" type="MultipleChoice">
+    <choice correct="false">Mix</choice>
+    <choice correct="false">Rural</choice>
+    <choice correct="true">Urban</choice>
+    <choice correct="false">Youth</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>What is the percentage of that category?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the percentage of that category?" type="MultipleChoice">
+    <choice correct="false">53.38%</choice>
+    <choice correct="false">55.38%</choice>
+    <choice correct="true">57.38%</choice>
+    <choice correct="false">59.38%</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

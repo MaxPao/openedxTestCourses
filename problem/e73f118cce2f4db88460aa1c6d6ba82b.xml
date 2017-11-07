@@ -1,0 +1,23 @@
+<problem display_name="Question 4" markdown="You are importing data from four CSV files that are located in the same folder. All four of the CSV files have the same file structure. You are using the “From folder” option of the query. &#10;&#10;&gt;&gt;What is the initial step you need to do in the Query Editor before loading the data into the Excel data model?&lt;&lt;&#10;&#10;( )&#9;Create relationships between the four CSV files.&#10;(x)&#9;Filter the header from the three other CSV files.&#10;( )&#9;Remove duplicate rows from the four CSV files.&#10;( )&#9;Create a unique id for each row of the four CSV files.&#10;&#10;[explanation]&#10;If all four CSV files have headers, the first step you typically do is to remove the headers from the other three CSV files.&#10;[explanation]&#10;">
+<p>You are importing data from four CSV files that are located in the same folder. All four of the CSV files have the same file structure. You are using the “From folder” option of the query. </p>
+
+<p>What is the initial step you need to do in the Query Editor before loading the data into the Excel data model?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the initial step you need to do in the Query Editor before loading the data into the Excel data model?" type="MultipleChoice">
+    <choice correct="false">Create relationships between the four CSV files.</choice>
+    <choice correct="true">Filter the header from the three other CSV files.</choice>
+    <choice correct="false">Remove duplicate rows from the four CSV files.</choice>
+    <choice correct="false">Create a unique id for each row of the four CSV files.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>If all four CSV files have headers, the first step you typically do is to remove the headers from the other three CSV files.</p>
+
+</div>
+</solution>
+
+</problem>

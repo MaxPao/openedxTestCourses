@@ -1,0 +1,20 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Which two type of relationships are supported in the Excel data model?&lt;&lt;&#10;&#10;[x]&#9;One-to-one&#10;[x]&#9;One-to-many&#10;[ ]&#9;Many-to-many&#10;&#10;[explanation]&#10;Excel data model does not support many-to-many relationship.&#10;[explanation]&#10;">
+<p>Which two type of relationships are supported in the Excel data model?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two type of relationships are supported in the Excel data model?">
+    <choice correct="true">One-to-one</choice>
+    <choice correct="true">One-to-many</choice>
+    <choice correct="false">Many-to-many</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Excel data model does not support many-to-many relationship.</p>
+
+</div>
+</solution>
+
+</problem>

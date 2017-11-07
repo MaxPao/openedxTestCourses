@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;Which feature in Query Editor should you use to remove rows based on their values?&lt;&lt;&#10;&#10;( )&#9;Remove Rows&#10;( )&#9;Remove Duplicates&#10;( )&#9;Replace Values&#10;(x)&#9;Filters&#10;&#10;[explanation]&#10;You can use the filter feature to remove rows based on certain criteria.&#10;[explanation]&#10;">
+<p>Which feature in Query Editor should you use to remove rows based on their values?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which feature in Query Editor should you use to remove rows based on their values?" type="MultipleChoice">
+    <choice correct="false">Remove Rows</choice>
+    <choice correct="false">Remove Duplicates</choice>
+    <choice correct="false">Replace Values</choice>
+    <choice correct="true">Filters</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can use the filter feature to remove rows based on certain criteria.</p>
+
+</div>
+</solution>
+
+</problem>

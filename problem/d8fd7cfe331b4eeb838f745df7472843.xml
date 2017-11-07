@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;Which two examples show a logical hierarchy?&lt;&lt;&#10;&#10;[x]&#9;Year, Month, Date&#10;[ ]&#9;High, Medium, Low&#10;[x]&#9;Country, State, City&#10;[ ]&#9;Left, Center, Right&#10;&#10;[explanation]&#10;The first and third options are correct.&#10;[explanation]&#10;">
+<p>Which two examples show a logical hierarchy?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two examples show a logical hierarchy?">
+    <choice correct="true">Year, Month, Date</choice>
+    <choice correct="false">High, Medium, Low</choice>
+    <choice correct="true">Country, State, City</choice>
+    <choice correct="false">Left, Center, Right</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The first and third options are correct.</p>
+
+</div>
+</solution>
+
+</problem>

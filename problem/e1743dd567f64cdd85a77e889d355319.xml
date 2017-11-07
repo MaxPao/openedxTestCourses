@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;When you create a calculated column on a table in the Excel data model, which two sources of data can the calculated column be based on?&lt;&lt;&#10;&#10;[x]&#9;Data in another table in the data model that is related to the current table.&#10;[x]&#9;Data in the current table in the data model.&#10;[ ]&#9;Data from an external source that has yet to be connected to the data model.&#10;[ ]&#9;Data from a worksheet in another workbook.&#10;&#10;[explanation]&#10;You can create a calculated column in the Excel data model based on data in the current table or on data in another table that is related to the current table.&#10;[explanation]&#10;">
+<p>When you create a calculated column on a table in the Excel data model, which two sources of data can the calculated column be based on?</p>
+<choiceresponse>
+  <checkboxgroup label="When you create a calculated column on a table in the Excel data model, which two sources of data can the calculated column be based on?">
+    <choice correct="true">Data in another table in the data model that is related to the current table.</choice>
+    <choice correct="true">Data in the current table in the data model.</choice>
+    <choice correct="false">Data from an external source that has yet to be connected to the data model.</choice>
+    <choice correct="false">Data from a worksheet in another workbook.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can create a calculated column in the Excel data model based on data in the current table or on data in another table that is related to the current table.</p>
+
+</div>
+</solution>
+
+</problem>

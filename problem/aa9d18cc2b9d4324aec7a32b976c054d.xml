@@ -1,0 +1,21 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Which two components can be connected with a slicer?&lt;&lt;&#10;&#10;[ ]&#9;Named range&#10;[x]&#9;Pivot table&#10;[ ]&#9;Excel chart&#10;[x]&#9;Pivot chart&#10;&#10;[explanation]&#10;While an Excel table can be filtered using a slicer, a slicer can be connected to either pivot table or pivot chart.&#10;[explanation]&#10;" max_attempts="3">
+<p>Which two components can be connected with a slicer?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two components can be connected with a slicer?">
+    <choice correct="false">Named range</choice>
+    <choice correct="true">Pivot table</choice>
+    <choice correct="false">Excel chart</choice>
+    <choice correct="true">Pivot chart</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>While an Excel table can be filtered using a slicer, a slicer can be connected to either pivot table or pivot chart.</p>
+
+</div>
+</solution>
+
+</problem>

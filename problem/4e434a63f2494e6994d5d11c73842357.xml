@@ -1,0 +1,21 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Using the Replace Values step, how many distinct values can be replaced at a time?&lt;&lt;&#10;&#10;(x)&#9;One&#10;( )&#9;Two&#10;( )&#9;Three&#10;( )&#9;Ten&#10;&#10;[explanation]&#10;You can replace one distinct value at a time using the Replace Values step.&#10;[explanation]&#10;">
+<p>Using the Replace Values step, how many distinct values can be replaced at a time?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Using the Replace Values step, how many distinct values can be replaced at a time?" type="MultipleChoice">
+    <choice correct="true">One</choice>
+    <choice correct="false">Two</choice>
+    <choice correct="false">Three</choice>
+    <choice correct="false">Ten</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can replace one distinct value at a time using the Replace Values step.</p>
+
+</div>
+</solution>
+
+</problem>

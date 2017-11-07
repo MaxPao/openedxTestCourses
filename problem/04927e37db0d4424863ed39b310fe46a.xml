@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;What are two ways of loading data into Excel by using queries in Excel 2016?&lt;&lt;&#10;&#10;[x]&#9;Load to Excel table&#10;[ ]&#9;Load to Excel ODBC connection&#10;[ ]&#9;Load to Excel hidden worksheet&#10;[x]&#9;Load to Excel Data model&#10;&#10;[explanation]&#10;You can load data to Excel table and/or to Excel data model.&#10;[explanation]&#10;">
+<p>What are two ways of loading data into Excel by using queries in Excel 2016?</p>
+<choiceresponse>
+  <checkboxgroup label="What are two ways of loading data into Excel by using queries in Excel 2016?">
+    <choice correct="true">Load to Excel table</choice>
+    <choice correct="false">Load to Excel ODBC connection</choice>
+    <choice correct="false">Load to Excel hidden worksheet</choice>
+    <choice correct="true">Load to Excel Data model</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can load data to Excel table and/or to Excel data model.</p>
+
+</div>
+</solution>
+
+</problem>

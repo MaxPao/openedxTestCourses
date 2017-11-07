@@ -1,0 +1,21 @@
+<problem display_name="Lab Question 1" markdown="&gt;&gt;Which tables have existing relationships defined?&lt;&lt;&#10;[x] Sales&#10;[x] Products&#10;[ ] Locations&#10;[x] Manufacturer&#10;&#10;&#10;[explanation]&#10;The table Sales, Products, and Manufacturer have relationships between them. You need to create a table relationship between the Sales table and the Locations table.&#10;[explanation]&#10;">
+<p>Which tables have existing relationships defined?</p>
+<choiceresponse>
+  <checkboxgroup label="Which tables have existing relationships defined?">
+    <choice correct="true">Sales</choice>
+    <choice correct="true">Products</choice>
+    <choice correct="false">Locations</choice>
+    <choice correct="true">Manufacturer</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The table Sales, Products, and Manufacturer have relationships between them. You need to create a table relationship between the Sales table and the Locations table.</p>
+
+</div>
+</solution>
+
+</problem>

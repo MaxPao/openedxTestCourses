@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;What are two reasons for uploading Excel reports to Power BI?&lt;&lt;&#10;&#10;[ ]&#9;To provide a backup solution for the Excel report&#10;[x]&#9;To gain access to a more sophisticated visualization element.&#10;[x]&#9;To easily share the report between users.&#10;[ ]&#9;To enable faster calculations of pivot charts.&#10;&#10;[explanation]&#10;Power BI gives you access to more visualization element than the ones in Excel. Tree-map visualization is one example. In addition, by uploading your reports to Power BI, you can easily share the dashboard you created with other users.&#10;[explanation]&#10;">
+<p>What are two reasons for uploading Excel reports to Power BI?</p>
+<choiceresponse>
+  <checkboxgroup label="What are two reasons for uploading Excel reports to Power BI?">
+    <choice correct="false">To provide a backup solution for the Excel report</choice>
+    <choice correct="true">To gain access to a more sophisticated visualization element.</choice>
+    <choice correct="true">To easily share the report between users.</choice>
+    <choice correct="false">To enable faster calculations of pivot charts.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Power BI gives you access to more visualization element than the ones in Excel. Tree-map visualization is one example. In addition, by uploading your reports to Power BI, you can easily share the dashboard you created with other users.</p>
+
+</div>
+</solution>
+
+</problem>

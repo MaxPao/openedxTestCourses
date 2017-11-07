@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;When using the VLOOKUP function, what is the purpose of the fourth parameter?&lt;&lt;&#10;&#10;( )&#9;Provide the value to be found.&#10;( )&#9;Provide a table array where the value should be retrieved.&#10;( )&#9;Provide a column number in the table array from which the matching value should be returned.&#10;(x)&#9;Provide a logical value whether to find an exact match or the closest match. &#10;&#10;[explanation]&#10;The last parameter is an optional parameter which takes in a logical value that specifies whether you want VLOOKUP to find an exact match or an approximate match.&#10;[explanation]&#10;">
+<p>When using the VLOOKUP function, what is the purpose of the fourth parameter?</p>
+<multiplechoiceresponse>
+  <choicegroup label="When using the VLOOKUP function, what is the purpose of the fourth parameter?" type="MultipleChoice">
+    <choice correct="false">Provide the value to be found.</choice>
+    <choice correct="false">Provide a table array where the value should be retrieved.</choice>
+    <choice correct="false">Provide a column number in the table array from which the matching value should be returned.</choice>
+    <choice correct="true">Provide a logical value whether to find an exact match or the closest match.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The last parameter is an optional parameter which takes in a logical value that specifies whether you want VLOOKUP to find an exact match or an approximate match.</p>
+
+</div>
+</solution>
+
+</problem>

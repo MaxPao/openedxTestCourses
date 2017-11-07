@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;The SUMX function takes in two parameters. What is the second parameter?&lt;&lt;&#10;&#10;( )&#9;The table containing the rows for which the expression will be evaluated.&#10;(x)&#9;The expression to be evaluated for each row of the table.&#10;( )&#9;A comma separated list of Boolean expression that defines a filter.&#10;( )&#9;A table expression that defines a filter.&#10;&#10;[explanation]&#10;The SUMX function takes as its first argument a table, or an expression that returns a table. The second argument is a column that contains the numbers you want to sum, or an expression that evaluates to a column.&#10;[explanation]&#10;">
+<p>The SUMX function takes in two parameters. What is the second parameter?</p>
+<multiplechoiceresponse>
+  <choicegroup label="The SUMX function takes in two parameters. What is the second parameter?" type="MultipleChoice">
+    <choice correct="false">The table containing the rows for which the expression will be evaluated.</choice>
+    <choice correct="true">The expression to be evaluated for each row of the table.</choice>
+    <choice correct="false">A comma separated list of Boolean expression that defines a filter.</choice>
+    <choice correct="false">A table expression that defines a filter.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The SUMX function takes as its first argument a table, or an expression that returns a table. The second argument is a column that contains the numbers you want to sum, or an expression that evaluates to a column.</p>
+
+</div>
+</solution>
+
+</problem>

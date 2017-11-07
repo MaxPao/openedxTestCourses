@@ -1,0 +1,1264 @@
+{
+    "Bjorn_Signature.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Bjorn_Signature.png", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Bjorn Signature.png", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Bjorn_Signature.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Bjorn_Signature-png.jpg", 
+            null
+        ]
+    }, 
+    "DAT206x_Syllabus.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "DAT206x_Syllabus.pdf", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "DAT206x Syllabus.pdf", 
+        "filename": "asset-v1:Microsoft+DAT206x+4T2016+type@asset+block@DAT206x_Syllabus.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Demo_-_Module_1-_Classic_Analysis.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Demo_-_Module_1-_Classic_Analysis.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Demo - Module 1- Classic Analysis.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Demo_-_Module_1-_Classic_Analysis.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Demo_-_Module_2_-_The_Excel_data_model.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Demo_-_Module_2_-_The_Excel_data_model.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Demo - Module 2 - The Excel data model.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Demo_-_Module_2_-_The_Excel_data_model.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Demo_-_Module_2_-_The_Excel_data_model_-_2010.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Demo_-_Module_2_-_The_Excel_data_model_-_2010.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Demo - Module 2 - The Excel data model - 2010.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Demo_-_Module_2_-_The_Excel_data_model_-_2010.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Excel1.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Excel1.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Excel1.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Excel1.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Excel1-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Excel2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Excel2.png", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Excel2.png", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Excel2.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Excel2-png.jpg", 
+            null
+        ]
+    }, 
+    "ExcelTable.xlsx": {
+        "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "ExcelTable.xlsx", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ExcelTable.xlsx", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@ExcelTable.xlsx", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab1Q1.2.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab1Q1.2.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab1Q1.2.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab1Q1.2.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Lab1Q1.2-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Lab_1_-_Classic_Analysis_-_Dashboard_CA.xlsx": {
+        "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_1_-_Classic_Analysis_-_Dashboard_CA.xlsx", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 1 - Classic Analysis - Dashboard CA.xlsx", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_1_-_Classic_Analysis_-_Dashboard_CA.xlsx", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_1_-_Classic_Analysis_-_Dashboard_CA.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_1_-_Classic_Analysis_-_Dashboard_CA.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 1 - Classic Analysis - Dashboard CA.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_1_-_Classic_Analysis_-_Dashboard_CA.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_1_-_Classic_Analysis_-_Dashboard_CA_-_2010.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_1_-_Classic_Analysis_-_Dashboard_CA_-_2010.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 1 - Classic Analysis - Dashboard CA - 2010.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_1_-_Classic_Analysis_-_Dashboard_CA_-_2010.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_2_-_The_Excel_Data_Model.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_2_-_The_Excel_Data_Model.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 2 - The Excel Data Model.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_2_-_The_Excel_Data_Model.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_2_-_The_excel_data_model_-_2010.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_2_-_The_excel_data_model_-_2010.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 2 - The excel data model - 2010.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_2_-_The_excel_data_model_-_2010.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_3_-_Onetable_-_TXNY.csv": {
+        "contentType": "application/vnd.ms-excel", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_3_-_Onetable_-_TXNY.csv", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 3 - Onetable - TXNY.csv", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_3_-_Onetable_-_TXNY.csv", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_3_-_Onetable_-_TXNY.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_3_-_Onetable_-_TXNY.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 3 - Onetable - TXNY.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_3_-_Onetable_-_TXNY.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_4_-_International_Sales.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_4_-_International_Sales.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 4 - International Sales.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_4_-_International_Sales.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_5_-_Model.zip": {
+        "contentType": "application/octet-stream", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_5_-_Model.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 5 - Model.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_5_-_Model.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_5_-_Model_-_2010.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_5_-_Model_-_2010.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 5 - Model - 2010.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_5_-_Model_-_2010.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_6_-_Industry_Report.xlsx": {
+        "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_6_-_Industry_Report.xlsx", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 6 - Industry Report.xlsx", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_6_-_Industry_Report.xlsx", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_6_-_Industry_Report.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_6_-_Industry_Report.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 6 - Industry Report.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_6_-_Industry_Report.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_6_-_Model.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_6_-_Model.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 6 - Model.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_6_-_Model.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_6_-_Model_-_2010.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_6_-_Model_-_2010.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 6 - Model - 2010.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_6_-_Model_-_2010.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_7_-_Model.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_7_-_Model.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 7 - Model.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_7_-_Model.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Lab_7_-_Model_-_2010.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Lab_7_-_Model_-_2010.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Lab 7 - Model - 2010.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Lab_7_-_Model_-_2010.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Module_2_-_The_Excel_data_model__2010_.xlsx": {
+        "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Module_2_-_The_Excel_data_model__2010_.xlsx", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Module 2 - The Excel data model (2010).xlsx", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Module_2_-_The_Excel_data_model__2010_.xlsx", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Module_2_-_The_Excel_data_model__2010_.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Module_2_-_The_Excel_data_model__2010_.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Module 2 - The Excel data model (2010).zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Module_2_-_The_Excel_data_model__2010_.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Module_3_-_onetable.zip": {
+        "contentType": "application/x-zip-compressed", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Module_3_-_onetable.zip", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Module 3 - onetable.zip", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Module_3_-_onetable.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Onetable.csv": {
+        "contentType": "application/vnd.ms-excel", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Onetable.csv", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Onetable.csv", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Onetable.csv", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Quiz5Q5.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Quiz5Q5.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Quiz5Q5.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Quiz5Q5.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Quiz5Q5-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Rank.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Rank.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Rank.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Rank.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Rank-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Report1.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Report1.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Report1.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Report1.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Report1-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Report2.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Report2.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Report2.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Report2.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Report2-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Report3.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Report3.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Report3.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Report3.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Report3-PNG.jpg", 
+            null
+        ]
+    }, 
+    "Satya_Signature.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "Satya_Signature.png", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Satya Signature.png", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Satya_Signature.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "Satya_Signature-png.jpg", 
+            null
+        ]
+    }, 
+    "databasediagram.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "databasediagram.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "databasediagram.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@databasediagram.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "databasediagram-PNG.jpg", 
+            null
+        ]
+    }, 
+    "e1001.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "e1001.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "e1001.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@e1001.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "e1001.jpg", 
+            null
+        ]
+    }, 
+    "e1002.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "e1002.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "e1002.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@e1002.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "e1002.jpg", 
+            null
+        ]
+    }, 
+    "e1301.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "e1301.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "e1301.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@e1301.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "e1301.jpg", 
+            null
+        ]
+    }, 
+    "e1302.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "e1302.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "e1302.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@e1302.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "e1302.jpg", 
+            null
+        ]
+    }, 
+    "e1303.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "e1303.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "e1303.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@e1303.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "e1303.jpg", 
+            null
+        ]
+    }, 
+    "pbicomm.PNG": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "pbicomm.PNG", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pbicomm.PNG", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@pbicomm.PNG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "pbicomm-PNG.jpg", 
+            null
+        ]
+    }, 
+    "pic1.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "pic1.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pic1.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@pic1.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "pic1.jpg", 
+            null
+        ]
+    }, 
+    "pic2.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "pic2.jpg", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pic2.jpg", 
+        "filename": "asset-v1:Microsoft+DAT206x+1T2016+type@asset+block@pic2.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "pic2.jpg", 
+            null
+        ]
+    }, 
+    "signature.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "signature.png", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "signature.png", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@signature.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "DAT206x", 
+            "thumbnail", 
+            "signature-png.jpg", 
+            null
+        ]
+    }, 
+    "subs_-l8y2w70rRk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_-l8y2w70rRk.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_-l8y2w70rRk.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_-l8y2w70rRk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_72FDjMSS-xo.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_72FDjMSS-xo.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_72FDjMSS-xo.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_72FDjMSS-xo.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_AwNy7EOQKdQ.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_AwNy7EOQKdQ.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_AwNy7EOQKdQ.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@subs_AwNy7EOQKdQ.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_B22arpiRTes.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_B22arpiRTes.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_B22arpiRTes.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@subs_B22arpiRTes.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_C0d9CxSpxao.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_C0d9CxSpxao.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_C0d9CxSpxao.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_C0d9CxSpxao.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_ExcelTables.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_ExcelTables.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_ExcelTables.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_ExcelTables.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_FlashFill.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_FlashFill.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_FlashFill.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_FlashFill.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_G02nuXqER8Q.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_G02nuXqER8Q.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_G02nuXqER8Q.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_G02nuXqER8Q.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_HQYwBpnMxBU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_HQYwBpnMxBU.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_HQYwBpnMxBU.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_HQYwBpnMxBU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Hes-qdSSqSo.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_Hes-qdSSqSo.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Hes-qdSSqSo.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@subs_Hes-qdSSqSo.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_PdaVlDZI-uM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_PdaVlDZI-uM.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_PdaVlDZI-uM.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@subs_PdaVlDZI-uM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_T2yIUtFnQAM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_T2yIUtFnQAM.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_T2yIUtFnQAM.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_T2yIUtFnQAM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Vlookup.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_Vlookup.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Vlookup.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_Vlookup.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_WGZCdWiG5OE.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_WGZCdWiG5OE.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_WGZCdWiG5OE.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_WGZCdWiG5OE.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Yr8UuZFsjmk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_Yr8UuZFsjmk.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Yr8UuZFsjmk.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_Yr8UuZFsjmk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_jilsx5nwbiQ.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_jilsx5nwbiQ.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_jilsx5nwbiQ.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_jilsx5nwbiQ.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_mbSHYhjIGrM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_mbSHYhjIGrM.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_mbSHYhjIGrM.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_mbSHYhjIGrM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_module1_fixed.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_module1_fixed.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_module1_fixed.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_module1_fixed.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_w8PxE_RVyN4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_w8PxE_RVyN4.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_w8PxE_RVyN4.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@subs_w8PxE_RVyN4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_wp_W501Sm5U.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_wp_W501Sm5U.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_wp_W501Sm5U.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+3T2015+type@asset+block@subs_wp_W501Sm5U.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_y9Sqzivq2Q4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "DAT206x", 
+            "name": "subs_y9Sqzivq2Q4.srt.sjson", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "5T2016", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_y9Sqzivq2Q4.srt.sjson", 
+        "filename": "asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@subs_y9Sqzivq2Q4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }
+}

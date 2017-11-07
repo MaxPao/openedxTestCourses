@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;Which three mobile platforms are supported by Power BI mobile?&lt;&lt;&#10;&#10;[x]&#9;Windows&#10;[x]&#9;iOS&#10;[x]&#9;Android&#10;[ ]&#9;Palm&#10;&#10;[explanation]&#10;Power BI mobile app is available on Windows, iOS and Android.&#10;[explanation]&#10;">
+<p>Which three mobile platforms are supported by Power BI mobile?</p>
+<choiceresponse>
+  <checkboxgroup label="Which three mobile platforms are supported by Power BI mobile?">
+    <choice correct="true">Windows</choice>
+    <choice correct="true">iOS</choice>
+    <choice correct="true">Android</choice>
+    <choice correct="false">Palm</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Power BI mobile app is available on Windows, iOS and Android.</p>
+
+</div>
+</solution>
+
+</problem>

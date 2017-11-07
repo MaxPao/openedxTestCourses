@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;Which statement describes an explicit measure? &lt;&lt;&#10;&#10;(x)&#9;An explicit measure is one that you create manually.&#10;( )&#9;An explicit measure is one that comes from outside the data model&#10;( )&#9;An explicit measure is one that Excel generates for you when you add fields to the Values area of a pivot table.&#10;( )&#9;An explicit measure is one that you create using MDX formulas.&#10;&#10;[explanation]&#10;An explicit measure is a measure that you manually create.&#10;[explanation]&#10;">
+<p>Which statement describes an explicit measure? </p>
+<multiplechoiceresponse>
+  <choicegroup label="Which statement describes an explicit measure? " type="MultipleChoice">
+    <choice correct="true">An explicit measure is one that you create manually.</choice>
+    <choice correct="false">An explicit measure is one that comes from outside the data model</choice>
+    <choice correct="false">An explicit measure is one that Excel generates for you when you add fields to the Values area of a pivot table.</choice>
+    <choice correct="false">An explicit measure is one that you create using MDX formulas.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>An explicit measure is a measure that you manually create.</p>
+
+</div>
+</solution>
+
+</problem>

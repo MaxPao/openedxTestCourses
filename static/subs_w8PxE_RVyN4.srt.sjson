@@ -1,0 +1,53 @@
+{
+  "start": [
+    9570, 
+    14289, 
+    19220, 
+    23619, 
+    29769, 
+    34010, 
+    39230, 
+    44000, 
+    48719, 
+    53280, 
+    58670, 
+    63370, 
+    66340, 
+    71080, 
+    74869
+  ], 
+  "end": [
+    14289, 
+    19220, 
+    23619, 
+    29769, 
+    34010, 
+    39230, 
+    44000, 
+    48719, 
+    53280, 
+    58670, 
+    63370, 
+    66340, 
+    71080, 
+    74869, 
+    75990
+  ], 
+  "text": [
+    "Converting a range of data into a table is simple to do and helps make your data", 
+    "easier to work with. On this worksheet I have a list of product sales by quarter", 
+    "all the information is here but it&#39;s not very easy to read or work with so I", 
+    "think I&#39;ll format it as a table. On the Home tab I click &quot;Format as Table&quot; and", 
+    "then select the table style that I want to apply. Since I already have headers", 
+    "included in my data I want to make sure that &quot;My table has headers&quot; is selected", 
+    "Well look, by default filtering has been added to my new table. Also notice that a", 
+    "new tab is available. I can use the options on this tab to further format my", 
+    "table. I think I&#39;ll add a total row and apply some additional formatting to my", 
+    "list of products. Notice that I can also try out some different styles by simply", 
+    "mousing over different options without actually applying the new style. I think", 
+    "I&#39;ll stick with my original table style so I&#39;ll just click on the worksheet", 
+    "Oops! Now the Design tab is gone! But don&#39;t worry if I want to make design", 
+    "changes to my table all I have to do is click anywhere on my table and the", 
+    "Design tab will appear"
+  ]
+}

@@ -1,0 +1,22 @@
+<problem display_name="Question 3" markdown=" &#10;&gt;&gt;You can use VLOOKUP to combine data into one range. What are the challenges of creating pivot tables based on this range? (Select all that apply)&lt;&lt;&#10;&#10;[x]&#9;VLOOKUP needs to be recalculated when a change is made to a particular row in the table array, which can be very slow.&#10;[ ]&#9;VLOOKUP cannot bring data from a worksheet that is not in the same workbook.&#10;[ ]&#9;VLOOKUP must return an exact match to the lookup value.&#10;[x]&#9;VLOOKUP limits the number of rows to the maximum number of rows that Excel can handle.&#10;&#10;[explanation]&#10;VLOOKUP recalculation can be very slow. In addition, to use VLOOKUP you are bound by the maximum number of rows that Excel can have in one sheet.&#10;[explanation]&#10;">
+<p> </p>
+<p>You can use VLOOKUP to combine data into one range. What are the challenges of creating pivot tables based on this range? (Select all that apply)</p>
+<choiceresponse>
+  <checkboxgroup label="You can use VLOOKUP to combine data into one range. What are the challenges of creating pivot tables based on this range? (Select all that apply)">
+    <choice correct="true">VLOOKUP needs to be recalculated when a change is made to a particular row in the table array, which can be very slow.</choice>
+    <choice correct="false">VLOOKUP cannot bring data from a worksheet that is not in the same workbook.</choice>
+    <choice correct="false">VLOOKUP must return an exact match to the lookup value.</choice>
+    <choice correct="true">VLOOKUP limits the number of rows to the maximum number of rows that Excel can handle.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>VLOOKUP recalculation can be very slow. In addition, to use VLOOKUP you are bound by the maximum number of rows that Excel can have in one sheet.</p>
+
+</div>
+</solution>
+
+</problem>

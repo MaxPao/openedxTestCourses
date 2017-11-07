@@ -1,0 +1,18 @@
+<problem display_name="Lab Question" markdown="When you summarize data using an Excel Pivot Table, each number found in a Pivot Table cell represents one or more records in the pivot table’s source data and is directly related to the Column and Row fields you used in the Pivot Table. A quick way to review this underlying set of records is to use the Show Details feature - right click within the desired cell and select Show Details from the menu options. This is commonly called Drilling down into the data and can also be achieved by double-clicking in the cell in question. &#10;&#10;Answer the following questions by using the tabular report you created. &#10;&#10;&gt;&gt;How many rows (transactions) made up VanArsdel sales for Youth Category and Abbas Manufacturer in the month of January 2014? &lt;&lt;&#10;&#10;= 11&#10;&#10;&gt;&gt;How many rows (transactions) made up VanArsdel sales for Rural Category and VanArsdel Manufacturer in the month of October 2014? &lt;&lt;&#10;&#10;= 4&#10;" max_attempts="3" weight="4.0">
+<p>When you summarize data using an Excel Pivot Table, each number found in a Pivot Table cell represents one or more records in the pivot table’s source data and is directly related to the Column and Row fields you used in the Pivot Table. A quick way to review this underlying set of records is to use the Show Details feature - right click within the desired cell and select Show Details from the menu options. This is commonly called Drilling down into the data and can also be achieved by double-clicking in the cell in question. </p>
+
+<p>Answer the following questions by using the tabular report you created. </p>
+
+<p>How many rows (transactions) made up VanArsdel sales for Youth Category and Abbas Manufacturer in the month of January 2014? </p>
+
+<numericalresponse answer="11">
+  <formulaequationinput label="How many rows (transactions) made up VanArsdel sales for Youth Category and Abbas Manufacturer in the month of January 2014? "/>
+</numericalresponse>
+
+<p>How many rows (transactions) made up VanArsdel sales for Rural Category and VanArsdel Manufacturer in the month of October 2014? </p>
+
+<numericalresponse answer="4">
+  <formulaequationinput label="How many rows (transactions) made up VanArsdel sales for Rural Category and VanArsdel Manufacturer in the month of October 2014? "/>
+</numericalresponse>
+
+</problem>

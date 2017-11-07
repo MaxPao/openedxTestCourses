@@ -1,0 +1,24 @@
+<problem display_name="Question 2" markdown="Consider the following DAX statement:&#10;CALCULATE([TotalRevenue],Manufacturer[Manufacturer]=”VanArsdel”)&#10;&#10;&gt;&gt;What does this statement return?&lt;&lt;&#10;&#10;( )&#9;The value of the manufacturer VanArsdel&#10;( )&#9;The value of all manufacturers that have TotalRevenue&#10;( )&#9;The value of TotalRevenue for all manufacturers&#10;(x)&#9;The value of TotalRevenue for the VanArsdel manufacturer&#10;&#10;[explanation]&#10;The statement returns the value of TotalRevenue for the VanArsdel manufacturer.&#10;[explanation]&#10;">
+<p>Consider the following DAX statement:</p>
+<p>CALCULATE([TotalRevenue],Manufacturer[Manufacturer]=”VanArsdel”)</p>
+
+<p>What does this statement return?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What does this statement return?" type="MultipleChoice">
+    <choice correct="false">The value of the manufacturer VanArsdel</choice>
+    <choice correct="false">The value of all manufacturers that have TotalRevenue</choice>
+    <choice correct="false">The value of TotalRevenue for all manufacturers</choice>
+    <choice correct="true">The value of TotalRevenue for the VanArsdel manufacturer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The statement returns the value of TotalRevenue for the VanArsdel manufacturer.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,23 @@
+<problem display_name="Question 3" markdown="You are importing data from a SQL database to Excel 2016 by using queries. You want to import a table that has the following columns and data types: ProductID (Whole Number), Date (Date), Zip (Whole Number), Units (Whole Number), Revenue (Decimal Number), State (Text), Country (Text).  The table has more than one million rows. You want to limit the number of rows imported by certain criteria. &#10;&#10;&gt;&gt;Which two of the following actions can you do to achieve this?&lt;&lt;&#10;&#10;[x]&#9;Apply a Date Filter on the Date column to filter Dates of interest.&#10;[ ]&#9;Apply a Replace Values on the State column to replace State of interest. &#10;[x]&#9;Apply a Number filter on the Zip column to filter Zip of interest.&#10;[ ]&#9;Apply a Replace Values on the Country column to replace Country of interest.&#10;&#10;[explanation]&#10;You can apply a filter in order to limit the number of rows imported by the query.&#10;[explanation]&#10;">
+<p>You are importing data from a SQL database to Excel 2016 by using queries. You want to import a table that has the following columns and data types: ProductID (Whole Number), Date (Date), Zip (Whole Number), Units (Whole Number), Revenue (Decimal Number), State (Text), Country (Text).  The table has more than one million rows. You want to limit the number of rows imported by certain criteria. </p>
+
+<p>Which two of the following actions can you do to achieve this?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two of the following actions can you do to achieve this?">
+    <choice correct="true">Apply a Date Filter on the Date column to filter Dates of interest.</choice>
+    <choice correct="false">Apply a Replace Values on the State column to replace State of interest. </choice>
+    <choice correct="true">Apply a Number filter on the Zip column to filter Zip of interest.</choice>
+    <choice correct="false">Apply a Replace Values on the Country column to replace Country of interest.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can apply a filter in order to limit the number of rows imported by the query.</p>
+
+</div>
+</solution>
+
+</problem>

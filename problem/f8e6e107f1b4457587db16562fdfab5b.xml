@@ -1,0 +1,40 @@
+<problem display_name="Lab Question 2" markdown="&gt;&gt;Which city in Texas has the most total sales (highest revenue)?&lt;&lt;&#10;( ) San Antonio&#10;(x) Houston&#10;( ) Austin&#10;( ) Dallas&#10;&#10;&gt;&gt;Which city in New York has the least total sales (lowest revenue)?&lt;&lt;&#10;(x) Arkport&#10;( ) Clayton&#10;( ) Tivoli&#10;( ) Ripley&#10;&#10;&gt;&gt;How many cities the State of New York have sales (Revenue)? (Hint: Distinct Count aggregation might be useful)&lt;&lt;&#10;( ) 710&#10;( ) 711&#10;(x) 712&#10;( ) 713&#10;&#10;[explanation]&#10;Houston has the most sales in Texas while Arkport has the least sales in New York. You can view this by creating a pivot table using State as Filters, City as Rows, and Sum of Revenue as Values. Then, sort the pivot table by Sum of Revenue and filter accordingly. For the last question, you can replace the Values with Distinct Count of City.&#10;[explanation]" max_attempts="3">
+<p>Which city in Texas has the most total sales (highest revenue)?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which city in Texas has the most total sales (highest revenue)?" type="MultipleChoice">
+    <choice correct="false">San Antonio</choice>
+    <choice correct="true">Houston</choice>
+    <choice correct="false">Austin</choice>
+    <choice correct="false">Dallas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which city in New York has the least total sales (lowest revenue)?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which city in New York has the least total sales (lowest revenue)?" type="MultipleChoice">
+    <choice correct="true">Arkport</choice>
+    <choice correct="false">Clayton</choice>
+    <choice correct="false">Tivoli</choice>
+    <choice correct="false">Ripley</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>How many cities the State of New York have sales (Revenue)? (Hint: Distinct Count aggregation might be useful)</p>
+<multiplechoiceresponse>
+  <choicegroup label="How many cities the State of New York have sales (Revenue)? (Hint: Distinct Count aggregation might be useful)" type="MultipleChoice">
+    <choice correct="false">710</choice>
+    <choice correct="false">711</choice>
+    <choice correct="true">712</choice>
+    <choice correct="false">713</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Houston has the most sales in Texas while Arkport has the least sales in New York. You can view this by creating a pivot table using State as Filters, City as Rows, and Sum of Revenue as Values. Then, sort the pivot table by Sum of Revenue and filter accordingly. For the last question, you can replace the Values with Distinct Count of City.</p>
+
+</div>
+</solution>
+</problem>

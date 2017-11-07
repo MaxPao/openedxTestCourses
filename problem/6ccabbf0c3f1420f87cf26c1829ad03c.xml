@@ -1,0 +1,16 @@
+<problem display_name="Lab Question" markdown="Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators, if the answer is negative then include the negative sign). Calculate the numbers without any context, either from the Power Pivot window or a pivot table with only measures. After you answer these questions, you can experiment with using these measures in pivot tables with a slicer on years or with years on rows/columns.&#10;&#10;&gt;&gt;What is the figure for the Total VanArsdel Sales measure? (to two decimal points)&lt;&lt;&#10;&#10;= 685311666.38&#10;or= 685311666,38&#10;or= 685311666.39&#10;or= 685311666,39&#10;or= 685311666.37&#10;or= 685311666,37&#10;&#10;&gt;&gt;What is the figure for the % Sales Market Share measure? (to two decimal places in the format 00.00)&lt;&lt;&#10;&#10;= 54.48&#10;or= 54,48&#10;or= 54.49&#10;or= 54,49&#10;or= 54.47&#10;or= 54,47&#10;" max_attempts="3">
+<p>Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators, if the answer is negative then include the negative sign). Calculate the numbers without any context, either from the Power Pivot window or a pivot table with only measures. After you answer these questions, you can experiment with using these measures in pivot tables with a slicer on years or with years on rows/columns.</p>
+
+<p>What is the figure for the Total VanArsdel Sales measure? (to two decimal points)</p>
+
+<numericalresponse answer="685311666.38">
+  <formulaequationinput label="What is the figure for the Total VanArsdel Sales measure? (to two decimal points)"/>
+</numericalresponse>
+
+<p>What is the figure for the % Sales Market Share measure? (to two decimal places in the format 00.00)</p>
+
+<numericalresponse answer="54.48">
+  <formulaequationinput label="What is the figure for the % Sales Market Share measure? (to two decimal places in the format 00.00)"/>
+</numericalresponse>
+
+</problem>

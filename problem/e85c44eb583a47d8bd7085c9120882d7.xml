@@ -1,0 +1,9 @@
+<problem display_name="Lab Question" markdown="&gt;&gt;How many rows were imported from the Sales query now?&lt;&lt;&#10;&#10;= 232836&#10;&#10;" weight="2.0">
+<p>How many rows were imported from the Sales query now?</p>
+
+<numericalresponse answer="232836">
+  <formulaequationinput label="How many rows were imported from the Sales query now?"/>
+</numericalresponse>
+
+
+</problem>

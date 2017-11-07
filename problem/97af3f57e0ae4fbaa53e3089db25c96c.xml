@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;What does the SAMEPERIODLASTYEAR function return?&lt;&lt;&#10;&#10;( )&#9;A value of a date shifted one year back in time from the date in the specified column, in the current context.&#10;( )&#9;A value of a date shifted one year back in time from the current date, in the current context.&#10;( )&#9;A table that contains a column of dates shifted one year back in time from the current date, in the current context.&#10;(x)&#9;A table that contains a column of dates shifted one year back in time from the dates in the specified column, in the current context.&#10;&#10;[explanation]&#10;The SAMEPERIODLASTYEAR function returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.&#10;[explanation]&#10;">
+<p>What does the SAMEPERIODLASTYEAR function return?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What does the SAMEPERIODLASTYEAR function return?" type="MultipleChoice">
+    <choice correct="false">A value of a date shifted one year back in time from the date in the specified column, in the current context.</choice>
+    <choice correct="false">A value of a date shifted one year back in time from the current date, in the current context.</choice>
+    <choice correct="false">A table that contains a column of dates shifted one year back in time from the current date, in the current context.</choice>
+    <choice correct="true">A table that contains a column of dates shifted one year back in time from the dates in the specified column, in the current context.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The SAMEPERIODLASTYEAR function returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.</p>
+
+</div>
+</solution>
+
+</problem>

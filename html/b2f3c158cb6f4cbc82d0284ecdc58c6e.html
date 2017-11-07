@@ -1,0 +1,69 @@
+<h2>DAX Functions</h2>
+<section class="ocpSection">
+<section class="ocpSection">
+<p>Functions are predefined formulas that perform calculations by using specific values, called arguments, in a particular order or structure. Arguments can be other functions, another formula, column references, numbers, text, logical values such as TRUE or FALSE, or constants.</p>
+<p>DAX includes the following categories of functions: Date and Time, Information, Logical, Mathematical, Statistical, Text, and Time Intelligence Functions. If you are familiar with functions in Excel formulas, many of the functions in DAX will appear similar to you; however, DAX functions are unique in the following ways:</p>
+<ul>
+<li>
+<p>A DAX function always references a complete column or a table. If you want to use only particular values from a table or column, you can add filters to the formula.</p>
+</li>
+<li>
+<p>If you need to customize calculations on a row-by-row basis, DAX provides functions that let you use the current row value or a related value as a kind of argument, to perform calculations that vary by context. You will learn more about context later.</p>
+</li>
+<li>
+<p>DAX includes many functions that return a table rather than a value. The table is not displayed, but is used to provide input to other functions. For example, you can retrieve a table and then count the distinct values in it, or calculate dynamic sums across filtered tables or columns.</p>
+</li>
+<li>
+<p>DAX includes a variety of time intelligence functions. These functions let you define or select date ranges, and perform dynamic calculations based on them. For example, you can compare sums across parallel periods.</p>
+</li>
+</ul>
+<p>Sometimes it is difficult to know which functions you might need to use in a formula.&nbsp;Excel includes the Insert Function feature, a dialog box that helps you select functions by category and provides short descriptions for each function.<br /><br /><img title="Insert Function" alt="Insert Function" src="http://osiprodeaodcspstoa01.blob.core.windows.net/en-us/media/c081cf73-04bd-48d0-9bd0-6b5076d727c1.jpg" interactiontype="500" ms="" pgarea="Body" cmpgrp="content" /></p>
+<section class="ocpSection">
+<h3>Add a function to a formula by using Insert Function</h3>
+<ol type="1">
+<li>
+<p>In the FactSales table, scroll to the right-most column, and then in the column header, click Add Column.</p>
+</li>
+<li>
+<p>In the formula bar, type an equals sign, =.</p>
+</li>
+<li>
+<p>Click the Insert Function button. <img title="Insert Function" alt="Insert Function" src="http://osiprodeaodcspstoa01.blob.core.windows.net/en-us/media/fbf240fa-ca8c-4de4-ab08-bfd0cab07116.jpg" interactiontype="500" ms="" pgarea="Body" cmpgrp="content" /> This opens the Insert Function dialog box.</p>
+</li>
+<li>
+<p>In the Insert Function dialog box, click the Select a category list box. By default, All is selected, and all of the functions in the All category are listed below. That&rsquo;s a lot of functions, so you will want to filter the functions to make it easier to locate the type of function you are looking for.</p>
+</li>
+</ol>
+<h2>Context</h2>
+</section>
+</section>
+<section class="ocpSection">
+<p>Context is one of the most important DAX concepts to understand. There are two types of context in DAX; row context and filter context. We will first look at row context.</p>
+<a name="row_context" ms="" pgarea="Body" cmpgrp="content"></a>
+<section class="ocpSection">
+<h3>Row Context</h3>
+<p>Row context is most easily thought of as the current row. For example, let's assume we have a simple DAX formula used to create new data (named Margin) for each row in a calculated column,&nbsp;defined as follows: Margin:=[SalesAmount]-[TotalCost].&nbsp;The formula =[SalesAmount] - [TotalCost] calculates a value in the Margin column for each row in the table. Values for each row are calculated from values in two other columns, [SalesAmount] and [TotalCost] in the same row. DAX can calculate the values for each row in the Margin column because it has the context: For each row, it takes values in the [TotalCost] column and subtracts them from values in the [SalesAmount] column.</p>
+<p>Row context doesn&rsquo;t just apply to calculated columns. Row context also applies whenever a formula has a function that applies filters to identify a single row in a table. The function will inherently apply a row context for each row of the table over which it is filtering. This type of row context most often applies to calculated fields.</p>
+</section>
+<a name="filter_context" ms="" pgarea="Body" cmpgrp="content"></a>
+<section class="ocpSection">
+<h3>Filter Context</h3>
+<p>Filter context is a little more difficult to understand than row context. You can most easily think of filter context as: One or more filters applied in a calculation that determines a result or value.</p>
+<p>Filter context does not exist in place of row context; rather, it applies in addition to row context. For example, to further narrow down the values to include in a calculation, you can apply a filter context which not only specifies the row context, but also specifies only a particular value (filter) in that row context.</p>
+<p>Filter context is easily seen in pivot tables. For example, when you add TotalCost to the Values area, and then add Year and Region to the Row or Columns, you are defining a filter context that selects a subset of data based on a given year and region.</p>
+<p>Why is filter context so important to DAX? Because, while filter context can most easily be applied by adding column and row labels and slicers in a PivotTable, filter context can also be applied in a DAX formula by defining a filter using functions such as ALL, RELATED, FILTER, CALCULATE, by relationships, and by other calculated fields and columns. For example, let&rsquo;s look at the following formula in a calculated field named StoreSales:</p>
+<p><img title="Formula" alt="Formula" src="http://osiprodeaodcspstoa01.blob.core.windows.net/en-us/media/7cd32f6f-ffd2-4bde-a638-7e79e6c2d37d.jpg" interactiontype="500" ms="" pgarea="Body" cmpgrp="content" /></p>
+<p>Clearly this formula is more complex than some of the other formulas you&rsquo;ve seen. However, to better understand this formula, we can break it down, much like we&rsquo;ve done with other formulas.</p>
+<p>This formula includes the following syntax elements:</p>
+<p>A. The calculated field name StoreSales, followed by a colon :.</p>
+<p>B. The equals sign operator (=) indicates the beginning of the formula.</p>
+<p>C. The CALCULATE function evaluates an expression, as an argument, in a context that is modified by the specified filters.</p>
+<p>D. Parenthesis () surround one or more arguments.</p>
+<p>E. A calculated field [Sales] in the same table as an expression. The Sales calculated field has the formula: =SUM(FactSales[SalesAmount]).</p>
+<p>F. A comma (,) separates each filter.</p>
+<p>G. The referenced column and a particular value, DimChannel[ChannelName] =&rdquo;Store&rdquo;, as a filter.</p>
+<p>This formula will ensure only sales values, defined by the Sales calculated field, as a filter, are calculated only for rows in the DimChannel[ChannelName] column with the value &ldquo;Store&rdquo;, as a filter.</p>
+<p>As you can imagine, being able to define filter context within a formula has immense and powerful capability. Being able to reference only a particular value in a related table is just one such example. Don&rsquo;t worry if you do not completely understand context right away. As you create your own formulas, you will better understand context and why it is so important in DAX.</p>
+</section>
+</section>
+</section>

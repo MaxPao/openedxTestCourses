@@ -1,0 +1,9 @@
+<video youtube="1.00:AwNy7EOQKdQ" url_name="72a241c889194cdd8b69008b1b65fc86" display_name="The Excel Data Model" download_track="true" download_video="true" edx_video_id="ff615900-c8bf-44bd-8126-280456b04c00" html5_sources="[]" sub="AwNy7EOQKdQ" youtube_id_1_0="AwNy7EOQKdQ">
+  <video_asset client_video_id="MOD2A.mp4" duration="530.6">
+    <encoded_video bitrate="192" file_size="12736074" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000100_AUD.mp3"/>
+    <encoded_video bitrate="127" file_size="8444483" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000100_MB2.mp4"/>
+    <encoded_video bitrate="270" file_size="17938463" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000100_DTH.mp4"/>
+    <encoded_video bitrate="206" file_size="13666330" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000100_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="AwNy7EOQKdQ"/>
+  </video_asset>
+</video>

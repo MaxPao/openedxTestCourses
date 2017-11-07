@@ -1,0 +1,21 @@
+<problem display_name="Question 5" markdown="&gt;&gt;What does the RELATED function (DAX) return?&lt;&lt;&#10;&#10;(x)&#9;A single value that is related to the current row from another table.&#10;( )&#9;A single value that is the sum of another column from another table.&#10;( )&#9;A calculated value based on the argument that is passed to the function.&#10;( )&#9;A calculated value based on the primary key of the table.&#10;&#10;[explanation]&#10;The RELATED function returns a single value that is related to the current row from another table.&#10;[explanation]&#10;">
+<p>What does the RELATED function (DAX) return?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What does the RELATED function (DAX) return?" type="MultipleChoice">
+    <choice correct="true">A single value that is related to the current row from another table.</choice>
+    <choice correct="false">A single value that is the sum of another column from another table.</choice>
+    <choice correct="false">A calculated value based on the argument that is passed to the function.</choice>
+    <choice correct="false">A calculated value based on the primary key of the table.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The RELATED function returns a single value that is related to the current row from another table.</p>
+
+</div>
+</solution>
+
+</problem>

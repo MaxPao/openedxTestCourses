@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;Which feature in Query Editor should you use to transform selected columns into attribute-value pairs where columns become rows?&lt;&lt;&#10;&#10;( )&#9;Fill&#10;( )&#9;Reverse Rows&#10;(x)&#9;Unpivot Columns&#10;( )&#9;Merge Columns&#10;&#10;[explanation]&#10;Using the Unpivot Columns feature you can transform selected columns into attribute-value pairs, where the columns become the rows.&#10;[explanation]&#10;">
+<p>Which feature in Query Editor should you use to transform selected columns into attribute-value pairs where columns become rows?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which feature in Query Editor should you use to transform selected columns into attribute-value pairs where columns become rows?" type="MultipleChoice">
+    <choice correct="false">Fill</choice>
+    <choice correct="false">Reverse Rows</choice>
+    <choice correct="true">Unpivot Columns</choice>
+    <choice correct="false">Merge Columns</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Using the Unpivot Columns feature you can transform selected columns into attribute-value pairs, where the columns become the rows.</p>
+
+</div>
+</solution>
+
+</problem>

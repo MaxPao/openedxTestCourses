@@ -1,0 +1,22 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Which combination of four functions can you use to calculate last year’s market share? (NOTE: all five of these are actual functions)&lt;&lt;&#10;&#10;[x]&#9;CALCULATE()&#10;[ ]&#9;COUNT()&#10;[x]&#9;SAMEPERIODLASTYEAR()&#10;[x]&#9;ALL()&#10;[x]&#9;DIVIDE()&#10;&#10;[explanation]&#10;You can calculate last year's share using the combination of CALCULATE(), SAMEPERIODLASTYEAR(), DIVIDE(), and ALL() functions.&#10;[explanation]&#10;">
+<p>Which combination of four functions can you use to calculate last year’s market share? (NOTE: all five of these are actual functions)</p>
+<choiceresponse>
+  <checkboxgroup label="Which combination of four functions can you use to calculate last year’s market share? (NOTE: all five of these are actual functions)">
+    <choice correct="true">CALCULATE()</choice>
+    <choice correct="false">COUNT()</choice>
+    <choice correct="true">SAMEPERIODLASTYEAR()</choice>
+    <choice correct="true">ALL()</choice>
+    <choice correct="true">DIVIDE()</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can calculate last year's share using the combination of CALCULATE(), SAMEPERIODLASTYEAR(), DIVIDE(), and ALL() functions.</p>
+
+</div>
+</solution>
+
+</problem>

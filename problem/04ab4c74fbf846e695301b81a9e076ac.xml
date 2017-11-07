@@ -1,0 +1,19 @@
+<problem display_name="Lab Question 4" markdown="&gt;&gt;Does the overall product category ranking from above (the Grand Total row) also hold true for each of the individual districts?&lt;&lt;&#10;( ) Yes&#10;(x) No&#10;&#10;&#10;[explanation]&#10;Over all districts, Urban category has the most sales while Youth category has the least sales, with Mix and Rural in second and third respectively. You can view this by creating a pivot table using Category as Rows, Sum of Revenue as Values, and sort the table by Sum of Revenue. This, however, is not true across all districts. You can view this by adding District as Rows (above Category), and create a pivot chart based on this data. From there you can see that the rank above does not hold true for all districts.&#10;[explanation]&#10;" max_attempts="1">
+<p>Does the overall product category ranking from above (the Grand Total row) also hold true for each of the individual districts?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Does the overall product category ranking from above (the Grand Total row) also hold true for each of the individual districts?" type="MultipleChoice">
+    <choice correct="false">Yes</choice>
+    <choice correct="true">No</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Over all districts, Urban category has the most sales while Youth category has the least sales, with Mix and Rural in second and third respectively. You can view this by creating a pivot table using Category as Rows, Sum of Revenue as Values, and sort the table by Sum of Revenue. This, however, is not true across all districts. You can view this by adding District as Rows (above Category), and create a pivot chart based on this data. From there you can see that the rank above does not hold true for all districts.</p>
+
+</div>
+</solution>
+
+</problem>

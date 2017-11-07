@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;What is one difference between viewing a Power BI dashboard on a mobile phone and on a tablet?&lt;&lt;&#10;&#10;( )&#9;On the phone, the data is not refreshed automatically.&#10;(x)&#9;On the phone, you cannot drill down on a report.&#10;( )&#9;On the phone, the number of tiles in the dashboard are less.&#10;( )&#9;On the phone, you cannot interact with specific elements on the tiles.&#10;&#10;[explanation]&#10;You cannot drill down on a report when viewing with the Power BI mobile app.&#10;[explanation]&#10;">
+<p>What is one difference between viewing a Power BI dashboard on a mobile phone and on a tablet?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is one difference between viewing a Power BI dashboard on a mobile phone and on a tablet?" type="MultipleChoice">
+    <choice correct="false">On the phone, the data is not refreshed automatically.</choice>
+    <choice correct="true">On the phone, you cannot drill down on a report.</choice>
+    <choice correct="false">On the phone, the number of tiles in the dashboard are less.</choice>
+    <choice correct="false">On the phone, you cannot interact with specific elements on the tiles.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You cannot drill down on a report when viewing with the Power BI mobile app.</p>
+
+</div>
+</solution>
+
+</problem>

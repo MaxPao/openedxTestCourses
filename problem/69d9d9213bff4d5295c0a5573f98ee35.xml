@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;Which are two purposes of using a calendar table in a data model?&lt;&lt;&#10;&#10;[ ]&#9;To list all the available dates in the calendar year.&#10;[x]&#9;To filter by year, month, or week.&#10;[x]&#9;To perform advanced calculations such as year-over-year comparison.&#10;[ ]&#9;To keep a timestamp of records in a transactional or fact table.&#10;&#10;[explanation]&#10;A calendar table is useful to perform advanced calculations and create date related filters.&#10;[explanation]&#10;">
+<p>Which are two purposes of using a calendar table in a data model?</p>
+<choiceresponse>
+  <checkboxgroup label="Which are two purposes of using a calendar table in a data model?">
+    <choice correct="false">To list all the available dates in the calendar year.</choice>
+    <choice correct="true">To filter by year, month, or week.</choice>
+    <choice correct="true">To perform advanced calculations such as year-over-year comparison.</choice>
+    <choice correct="false">To keep a timestamp of records in a transactional or fact table.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>A calendar table is useful to perform advanced calculations and create date related filters.</p>
+
+</div>
+</solution>
+
+</problem>

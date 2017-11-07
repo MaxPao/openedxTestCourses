@@ -1,0 +1,23 @@
+<p>Continue with your Excel file from the previous exercise. You want to create a Query for the International sales and append the Query to the Query from US Sales.</p>
+<p><strong><span style="color: #ff0000; line-height: 1.6em; font-size: 1em;">IMPORTANT!!</span></strong></p>
+<ul>
+<li>The CSV file used in this lab is created using the English - US locale, which means the decimal separator is a period and the thousands separator is a comma, and dates are formatted in m/dd/yyyy format. If you are using local settings like German, French, or others, in which the decimal separator is a comma and the thousands separator is a period, Power Query (or Query in Excel 2016) will ignore the period and treats all digits as numbers. You can change the locale of your Power Query for just the workbook you are using. If you use Excel 2010 or 2013, you can see the locale settings in the Power Query tab. If you are using Excel 2016, it is under New Query / Query settings / Data Load.</li>
+<li>You might be asked to confirm Privacy Levels when you append the International Sales query to the Sales query. You can read about privacy levels <a href="https://support.office.com/en-us/article/Privacy-levels-Power-Query-CC3EDE4D-359E-4B28-BC72-9BEE7900B540" target="[object Object]">here</a>.&nbsp;The article is talking about Power Query but the same apply to queries created by the get-and-transform functionality in Excel 2016. In short data can be public, organizational, or private and when the query mashes up different sources you may need to assign one of these privacy categories to each source so the query engine will know to send private data to a public source for a merge. If you assign Organizational to all the sources for the lab, you'll be fine.</li>
+</ul>
+<p><strong><span style="font-size: 1em; line-height: 1.6em;"><span style="font-size: 1em; line-height: 1.6em;">Lab Steps</span></span></strong></p>
+<ol>
+<li><span style="font-size: 1em; line-height: 1.6em;">Download the <a href="https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-Excel/raw/master/Module4/Lab_4_International_Sales.zip" target="[object Object]">zip file</a>&nbsp;containing VanArsdel's international sales data and extract it to a folder. You should see 4 CSV files in the folder.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Import the data from the file folder by creating a new&nbsp;Query. To do this, use the <strong>From File / From Folder</strong> option and select the folder where you saved the 4 CSV files containing VanArsdel&rsquo;s international sales data.</span></li>
+<li>Perform the following steps:</li>
+<ul>
+<li><span style="font-size: 1em; line-height: 1.6em;">Name the Query <strong>InternationalSales</strong>.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Filter out the records (rows) that come from the header of the CSV files. (Hint: Filter the <strong>Zip</strong> column where the row does not equal the text "Zip").</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Filter the rows that are after <strong>12/31/2014</strong>.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Create a <strong>CountryZip&nbsp;</strong>column by merging the <strong>Country</strong> and <strong>Zip</strong> columns.</span></li>
+</ul>
+<li>Create the connection from the query without loading to the data model.</li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Edit the <strong>Sales</strong> Query from the previous exercise (SQL Database import).</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Append the InternationalSales Query to the Sales Query.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Load the data into Excel data model. This might take a few minutes.</span></li>
+<li><span style="font-size: 1em; line-height: 1.6em;">Ensure all other relationships are intact, otherwise, correct them accordingly.</span></li>
+</ol>

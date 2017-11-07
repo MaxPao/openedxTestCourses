@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;Which version of Excel was the Excel Data Model FIRST introduced??&lt;&lt;&#10;&#10;( )&#9;Excel 2007&#10;(x)&#9;Excel 2010&#10;( )&#9;Excel 2013&#10;( )&#9;Excel 2016&#10;&#10;[explanation]&#10;Excel data model is first introduced in Excel 2010.&#10;[explanation]&#10;">
+<p>Which version of Excel was the Excel Data Model FIRST introduced??</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which version of Excel was the Excel Data Model FIRST introduced??" type="MultipleChoice">
+    <choice correct="false">Excel 2007</choice>
+    <choice correct="true">Excel 2010</choice>
+    <choice correct="false">Excel 2013</choice>
+    <choice correct="false">Excel 2016</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Excel data model is first introduced in Excel 2010.</p>
+
+</div>
+</solution>
+
+</problem>

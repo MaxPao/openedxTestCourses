@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;How many mandatory parameters are taken by the CALCULATE function?&lt;&lt;&#10;&#10;(x)&#9;One&#10;(x)&#9;Two&#10;( )&#9;Three&#10;( )&#9;Four&#10;&#10;[explanation]&#10;The CALCULATE function expect two parameters, the first is an expression which is the required parameter. This is the expression to be evaluated. &#10;[explanation]&#10;">
+<p>How many mandatory parameters are taken by the CALCULATE function?</p>
+<multiplechoiceresponse>
+  <choicegroup label="How many mandatory parameters are taken by the CALCULATE function?" type="MultipleChoice">
+    <choice correct="true">One</choice>
+    <choice correct="true">Two</choice>
+    <choice correct="false">Three</choice>
+    <choice correct="false">Four</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The CALCULATE function expect two parameters, the first is an expression which is the required parameter. This is the expression to be evaluated. </p>
+
+</div>
+</solution>
+
+</problem>

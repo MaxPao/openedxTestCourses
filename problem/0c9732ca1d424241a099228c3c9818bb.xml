@@ -1,0 +1,23 @@
+<problem display_name="Question 2" markdown="Consider a table named FactInternetSales that has the following columns and data types: Quantity (Whole Number), List Price (Decimal Number), and a calculated column: Revenue (Decimal Number). The Revenue column is calculated by multiplying Quantity and List Price. &#10;&#10;&gt;&gt;Which two DAX statements below create a measure that calculates the total revenue that correctly filters by any other columns in the data model?&lt;&lt;&#10;&#10;[x]&#9;SUM(FactInternetSales[Revenue])&#10;[x]&#9;SUMX(FactInternetSales,FactInternetSales[Quantity]*FactInternetSales[List Price])&#10;[ ]&#9;SUM(FactInternetSales[Quantity])*SUM(FactInternetSales[List Price])&#10;[ ]&#9;CALCULATE(SUM(FactInternetSales[Revenue]),ALL(FactInternetSales))&#10;&#10;[explanation]&#10;The first and second statements are correct.&#10;[explanation]&#10;">
+<p>Consider a table named FactInternetSales that has the following columns and data types: Quantity (Whole Number), List Price (Decimal Number), and a calculated column: Revenue (Decimal Number). The Revenue column is calculated by multiplying Quantity and List Price. </p>
+
+<p>Which two DAX statements below create a measure that calculates the total revenue that correctly filters by any other columns in the data model?</p>
+<choiceresponse>
+  <checkboxgroup label="Which two DAX statements below create a measure that calculates the total revenue that correctly filters by any other columns in the data model?">
+    <choice correct="true">SUM(FactInternetSales[Revenue])</choice>
+    <choice correct="true">SUMX(FactInternetSales,FactInternetSales[Quantity]*FactInternetSales[List Price])</choice>
+    <choice correct="false">SUM(FactInternetSales[Quantity])*SUM(FactInternetSales[List Price])</choice>
+    <choice correct="false">CALCULATE(SUM(FactInternetSales[Revenue]),ALL(FactInternetSales))</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The first and second statements are correct.</p>
+
+</div>
+</solution>
+
+</problem>

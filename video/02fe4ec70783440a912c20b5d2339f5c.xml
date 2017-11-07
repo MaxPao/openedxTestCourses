@@ -1,0 +1,9 @@
+<video youtube="1.00:Hes-qdSSqSo" url_name="02fe4ec70783440a912c20b5d2339f5c" display_name="Basic DAX" download_track="true" download_video="true" edx_video_id="564be34a-4a16-407b-a674-c297f5a7a650" html5_sources="[]" sub="Hes-qdSSqSo" youtube_id_1_0="Hes-qdSSqSo">
+  <video_asset client_video_id="MOD2B.mp4" duration="803.61">
+    <encoded_video bitrate="192" file_size="19288074" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000400_AUD.mp3"/>
+    <encoded_video bitrate="178" file_size="17974847" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000400_MB2.mp4"/>
+    <encoded_video bitrate="162" file_size="16358092" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000400_MB1.mp4"/>
+    <encoded_video bitrate="230" file_size="23142267" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000400_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Hes-qdSSqSo"/>
+  </video_asset>
+</video>

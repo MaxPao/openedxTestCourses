@@ -1,0 +1,107 @@
+{
+    "course/course": {
+        "advertised_start": null, 
+        "allow_anonymous": false, 
+        "cert_html_view_enabled": true, 
+        "certificates": {
+            "certificates": [
+                {
+                    "description": "Description of the certificate", 
+                    "id": 63523932, 
+                    "is_active": true, 
+                    "name": "Name of the certificate", 
+                    "signatories": [
+                        {
+                            "certificate": 63523932, 
+                            "id": 654407677, 
+                            "name": "Satya Nadella", 
+                            "organization": "Microsoft Corporation", 
+                            "signature_image_path": "/asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Satya_Signature.png", 
+                            "title": "Chief Executive Officer"
+                        }, 
+                        {
+                            "certificate": 63523932, 
+                            "id": 1095733910, 
+                            "name": "Bj\u00f6rn Rettig", 
+                            "organization": "Microsoft Corporation", 
+                            "signature_image_path": "/asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@Bjorn_Signature.png", 
+                            "title": "Senior Director Technical Content"
+                        }, 
+                        {
+                            "certificate": 63523932, 
+                            "id": 1537416783, 
+                            "name": "Dany Hoter", 
+                            "organization": "Microsoft Corporation", 
+                            "signature_image_path": "/asset-v1:Microsoft+DAT206x+2T2016+type@asset+block@signature.png", 
+                            "title": "Sr. Program Manager"
+                        }
+                    ], 
+                    "version": 1
+                }
+            ]
+        }, 
+        "certificates_display_behavior": "early_no_info", 
+        "course_image": "Excel2.png", 
+        "days_early_for_beta": 60.0, 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Analyzing and Visualizing Data with Excel", 
+        "end": "2016-08-26T00:00:00Z", 
+        "enrollment_end": "2016-08-19T00:00:00Z", 
+        "enrollment_start": null, 
+        "graceperiod": "", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "max_attempts": 2, 
+        "minimum_grade_credit": 0.8, 
+        "mobile_available": true, 
+        "self_paced": true, 
+        "start": "2016-07-18T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Syllabus", 
+                "type": "static_tab", 
+                "url_slug": "42e780a3df3d4aaf8dda4198192254e2"
+            }, 
+            {
+                "name": "FAQ", 
+                "type": "static_tab", 
+                "url_slug": "ce42d37f282141469a3c0bd38b6766d7"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "is_hidden": true, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }
+        ], 
+        "video_upload_pipeline": {
+            "course_video_upload_token": "2bb7625150d611e5ad46406c8fb7d690"
+        }
+    }
+}

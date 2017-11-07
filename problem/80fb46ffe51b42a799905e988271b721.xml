@@ -1,0 +1,23 @@
+<problem display_name="Question 1" markdown="You are importing data from a SQL database to Excel 2016 by using queries. There are four tables in the SQL database. Three of the tables have relationships defined between them. You select three tables to be imported, including the one without table relationships. You then load the data into the Excel data model without performing additional steps in the Query Editor window. &#10;&#10;&gt;&gt;How many tables were brought into the Excel data model?&lt;&lt;&#10;&#10;( )&#9;One &#10;( )&#9;Two&#10;(x) Three&#10;( )&#9;Four&#10;&#10;[explanation]&#10;All three tables selected were brought into the Excel data model.&#10;[explanation]&#10;">
+<p>You are importing data from a SQL database to Excel 2016 by using queries. There are four tables in the SQL database. Three of the tables have relationships defined between them. You select three tables to be imported, including the one without table relationships. You then load the data into the Excel data model without performing additional steps in the Query Editor window. </p>
+
+<p>How many tables were brought into the Excel data model?</p>
+<multiplechoiceresponse>
+  <choicegroup label="How many tables were brought into the Excel data model?" type="MultipleChoice">
+    <choice correct="false">One</choice>
+    <choice correct="false">Two</choice>
+    <choice correct="true">Three</choice>
+    <choice correct="false">Four</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>All three tables selected were brought into the Excel data model.</p>
+
+</div>
+</solution>
+
+</problem>

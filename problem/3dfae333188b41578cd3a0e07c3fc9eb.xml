@@ -1,0 +1,23 @@
+<problem display_name="Lab Question" markdown="Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators, if the answer is negative then include the negative sign). Calculate the numbers without any context, either from the Power Pivot window or a pivot table with only measures. After you answer these questions, you can experiment with using these measures in pivot tables with a slicer on years or with years on rows/columns.&#10;&#10;&gt;&gt;What is the figure for the Total Sales measure? (to two decimal points)&lt;&lt;&#10;&#10;= 1258005068.93&#10;or= 1258005068,93&#10;or= 1258005068.94&#10;or= 1258005068,94&#10;or= 1258005068.92&#10;or= 1258005068,92&#10;&#10;&gt;&gt;What is the figure for the LY Sales measure? (to two decimal points)&lt;&lt;&#10;&#10;= 998733329.16&#10;or= 998733329,16&#10;or= 998733329.17&#10;or= 998733329,17&#10;or= 998733329.15&#10;or= 998733329,15&#10;&#10;&gt;&gt;What is the figure for the Sales Var % measure? (to two decimal places in the format 00.00)&lt;&lt;&#10;&#10;= 25.96&#10;or= 25,96&#10;or= 25.97&#10;or= 25,97&#10;or= 25.95&#10;or= 25,95" max_attempts="3">
+<p>Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators, if the answer is negative then include the negative sign). Calculate the numbers without any context, either from the Power Pivot window or a pivot table with only measures. After you answer these questions, you can experiment with using these measures in pivot tables with a slicer on years or with years on rows/columns.</p>
+
+<p>What is the figure for the Total Sales measure? (to two decimal points)</p>
+
+<numericalresponse answer="1258005068.93">
+  <formulaequationinput label="What is the figure for the Total Sales measure? (to two decimal points)"/>
+</numericalresponse>
+
+<p>What is the figure for the LY Sales measure? (to two decimal points)</p>
+
+<numericalresponse answer="998733329.16">
+  <formulaequationinput label="What is the figure for the LY Sales measure? (to two decimal points)"/>
+</numericalresponse>
+
+<p>What is the figure for the Sales Var % measure? (to two decimal places in the format 00.00)</p>
+
+<numericalresponse answer="25.96">
+  <formulaequationinput label="What is the figure for the Sales Var % measure? (to two decimal places in the format 00.00)"/>
+</numericalresponse>
+
+
+</problem>

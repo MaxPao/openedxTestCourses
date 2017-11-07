@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;When should you convert a pivot table to formulas?&lt;&lt;&#10;&#10;( )&#9;To enable filter functionality.&#10;(x)&#9;To get more flexibility in arranging the positioning of the cells.&#10;( )&#9;To enable drill-down functionality.&#10;( )&#9;To connect filtering to an existing slicer.&#10;&#10;[explanation]&#10;You can convert a pivot table into cube formulas. You might do this to gain flexibility in arranging the positioning of the cells to create a &quot;free-format&quot; report.&#10;[explanation]&#10;">
+<p>When should you convert a pivot table to formulas?</p>
+<multiplechoiceresponse>
+  <choicegroup label="When should you convert a pivot table to formulas?" type="MultipleChoice">
+    <choice correct="false">To enable filter functionality.</choice>
+    <choice correct="true">To get more flexibility in arranging the positioning of the cells.</choice>
+    <choice correct="false">To enable drill-down functionality.</choice>
+    <choice correct="false">To connect filtering to an existing slicer.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can convert a pivot table into cube formulas. You might do this to gain flexibility in arranging the positioning of the cells to create a "free-format" report.</p>
+
+</div>
+</solution>
+
+</problem>

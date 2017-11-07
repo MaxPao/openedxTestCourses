@@ -1,0 +1,9 @@
+<video youtube="1.00:wp_W501Sm5U" url_name="3530cd69c30e4649b9e159ae26a68ce7" display_name="Importing Data from a CSV File" download_track="true" download_video="true" edx_video_id="d2ddb994-481e-47d6-85ff-6e7bea02fee3" html5_sources="[]" sub="wp_W501Sm5U" youtube_id_1_0="wp_W501Sm5U">
+  <video_asset client_video_id="MOD3.mp4" duration="672.26">
+    <encoded_video bitrate="140" file_size="11809793" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000500_MB2.mp4"/>
+    <encoded_video bitrate="307" file_size="25835541" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000500_DTH.mp4"/>
+    <encoded_video bitrate="192" file_size="16135626" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000500_AUD.mp3"/>
+    <encoded_video bitrate="219" file_size="18476747" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000500_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="wp_W501Sm5U"/>
+  </video_asset>
+</video>

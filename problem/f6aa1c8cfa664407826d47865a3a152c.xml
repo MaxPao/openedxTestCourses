@@ -1,0 +1,25 @@
+<problem display_name="Lab Question" markdown="Answer the following questions by reviewing the Excel data model.&#10;&#10;&gt;&gt;How many tables were loaded into the data model?&lt;&lt;&#10;( ) 5&#10;( ) 6&#10;(x) 7&#10;( ) 8&#10;&#10;&gt;&gt;How many rows were loaded into the FactInternetSales table?&lt;&lt;&#10;( ) 60397&#10;(x) 60398&#10;( ) 60399&#10;( ) 60400&#10;" max_attempts="3">
+<p>Answer the following questions by reviewing the Excel data model.</p>
+
+<p>How many tables were loaded into the data model?</p>
+<multiplechoiceresponse>
+  <choicegroup label="How many tables were loaded into the data model?" type="MultipleChoice">
+    <choice correct="false">5</choice>
+    <choice correct="false">6</choice>
+    <choice correct="true">7</choice>
+    <choice correct="false">8</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>How many rows were loaded into the FactInternetSales table?</p>
+<multiplechoiceresponse>
+  <choicegroup label="How many rows were loaded into the FactInternetSales table?" type="MultipleChoice">
+    <choice correct="false">60397</choice>
+    <choice correct="true">60398</choice>
+    <choice correct="false">60399</choice>
+    <choice correct="false">60400</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

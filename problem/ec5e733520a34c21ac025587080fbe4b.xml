@@ -1,0 +1,32 @@
+<problem display_name="Lab Question 3" markdown="null" max_attempts="2" show_reset_button="false" showanswer="finished">
+  
+   <customresponse>
+     <p>With product categories in the Columns, Districts in the Rows, and Sum of Revenue, rank the product categories from the highest to lowest sales over all of the districts (using the Grand Total row).</p>
+    <p>Drag the product category to its appropriate box, 1 being the product category with the highest sales, and 4 being the product category with the lowest sales.</p>
+            <drag_and_drop_input img="/static/Rank.PNG">
+              <draggable id="1" label="Rural"/>
+              <draggable id="2" label="Urban"/>
+              <draggable id="3" label="Youth"/>
+              <draggable id="4" label="Mix"/>
+            </drag_and_drop_input>
+    <answer type="loncapa/python">
+correct_answer = {
+        '2':      [[72, 120], 70],
+        '4':      [[229, 120], 70],
+        '1':      [[383, 120], 70],
+        '3':     [[542, 120], 70]}
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+    </answer>
+</customresponse>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The correct sequence are Urban, Mix, Rural, and Youth</p>
+
+</div>
+</solution>    
+</problem>

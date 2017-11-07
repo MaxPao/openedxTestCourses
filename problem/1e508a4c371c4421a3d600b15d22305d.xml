@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;In Excel 2016, which two options below will you find the Manage Data Model icon in order to access the Excel data model? (Hint: for those of you who don’t have Excel 2016, Dany clearly demonstrates both options within the first couple of minutes of the video).&lt;&lt;&#10;&#10;[ ]&#9;Select Data tab, then Get External Data group.&#10;[ ]&#9;Select Power Pivot tab, then Settings.&#10;[x]&#9;Select Data tab, then Data Tools group.&#10;[x]&#9;Select Power Pivot tab, then Data Model group.&#10;&#10;[explanation]&#10;The third and fourth options represent the correct answer.&#10;[explanation]&#10;">
+<p>In Excel 2016, which two options below will you find the Manage Data Model icon in order to access the Excel data model? (Hint: for those of you who don’t have Excel 2016, Dany clearly demonstrates both options within the first couple of minutes of the video).</p>
+<choiceresponse>
+  <checkboxgroup label="In Excel 2016, which two options below will you find the Manage Data Model icon in order to access the Excel data model? (Hint: for those of you who don’t have Excel 2016, Dany clearly demonstrates both options within the first couple of minutes of the video).">
+    <choice correct="false">Select Data tab, then Get External Data group.</choice>
+    <choice correct="false">Select Power Pivot tab, then Settings.</choice>
+    <choice correct="true">Select Data tab, then Data Tools group.</choice>
+    <choice correct="true">Select Power Pivot tab, then Data Model group.</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The third and fourth options represent the correct answer.</p>
+
+</div>
+</solution>
+
+</problem>

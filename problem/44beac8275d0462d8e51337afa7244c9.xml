@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;What are measures in Excel?&lt;&lt;&#10;&#10;( )&#9;A standard of measurement across columns.&#10;(x)&#9;A calculation that you create for the purpose of measuring an outcome or result relative to other factors.&#10;( )&#9;A hard-coded value in the Excel data model. &#10;( )&#9;A way to dynamically change Excel data sources.&#10;&#10;[explanation]&#10;Measures in Excel is a calculation created for the purpose of measuring an outcome or result relative to other factors.&#10;[explanation]&#10;">
+<p>What are measures in Excel?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What are measures in Excel?" type="MultipleChoice">
+    <choice correct="false">A standard of measurement across columns.</choice>
+    <choice correct="true">A calculation that you create for the purpose of measuring an outcome or result relative to other factors.</choice>
+    <choice correct="false">A hard-coded value in the Excel data model.</choice>
+    <choice correct="false">A way to dynamically change Excel data sources.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Measures in Excel is a calculation created for the purpose of measuring an outcome or result relative to other factors.</p>
+
+</div>
+</solution>
+
+</problem>

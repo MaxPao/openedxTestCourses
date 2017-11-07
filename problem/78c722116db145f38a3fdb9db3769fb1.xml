@@ -1,0 +1,21 @@
+<problem display_name="Question 1" markdown="&gt;&gt;In which two locations can you use Data Analysis Expression (DAX)?&lt;&lt;&#10;&#10;[ ]&#9;Calculated rows&#10;[x]&#9;Calculated columns&#10;[x]&#9;Measures (in Excel 2013, measures are called calculated fields)&#10;[ ]&#9;Summary functions&#10;&#10;[explanation]&#10;You can use DAX in calculated columns and measures.&#10;[explanation]&#10;">
+<p>In which two locations can you use Data Analysis Expression (DAX)?</p>
+<choiceresponse>
+  <checkboxgroup label="In which two locations can you use Data Analysis Expression (DAX)?">
+    <choice correct="false">Calculated rows</choice>
+    <choice correct="true">Calculated columns</choice>
+    <choice correct="true">Measures (in Excel 2013, measures are called calculated fields)</choice>
+    <choice correct="false">Summary functions</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can use DAX in calculated columns and measures.</p>
+
+</div>
+</solution>
+
+</problem>

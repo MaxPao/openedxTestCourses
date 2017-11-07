@@ -1,0 +1,9 @@
+<video youtube="1.00:WGZCdWiG5OE" url_name="2dc9f73c192e4fd3854bb3d6b34850d4" display_name="Importing Data from Multiple Files" download_track="true" download_video="true" edx_video_id="dfa79e07-5d65-43d7-b068-afd6522e077b" html5_sources="[]" sub="WGZCdWiG5OE" youtube_id_1_0="WGZCdWiG5OE">
+  <video_asset client_video_id="MOD4b.mp4" duration="776.58">
+    <encoded_video bitrate="283" file_size="27513701" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000700_DTH.mp4"/>
+    <encoded_video bitrate="132" file_size="12838480" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000700_MB2.mp4"/>
+    <encoded_video bitrate="192" file_size="18639498" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000700_AUD.mp3"/>
+    <encoded_video bitrate="212" file_size="20596263" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/MSXDT206/MSXDT206T315-V000700_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="WGZCdWiG5OE"/>
+  </video_asset>
+</video>

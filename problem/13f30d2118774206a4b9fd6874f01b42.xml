@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;What is the advantage of using the DIVIDE function over the “/” operator?&lt;&lt;&#10;&#10;( )&#9;To make the expression more readable&#10;( )&#9;To write a shorter expression&#10;( )&#9;To speed up calculation time&#10;(x)&#9;To return an alternate result for division by zero&#10;&#10;[explanation]&#10;Using the DIVIDE function, you can return alternate result for division by zero.&#10;[explanation]&#10;">
+<p>What is the advantage of using the DIVIDE function over the “/” operator?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the advantage of using the DIVIDE function over the “/” operator?" type="MultipleChoice">
+    <choice correct="false">To make the expression more readable</choice>
+    <choice correct="false">To write a shorter expression</choice>
+    <choice correct="false">To speed up calculation time</choice>
+    <choice correct="true">To return an alternate result for division by zero</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Using the DIVIDE function, you can return alternate result for division by zero.</p>
+
+</div>
+</solution>
+
+</problem>

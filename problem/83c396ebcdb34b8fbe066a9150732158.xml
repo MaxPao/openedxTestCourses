@@ -1,0 +1,17 @@
+<problem display_name="Lab Question" markdown="Answer the following questions by reviewing the query you have just created.&#10;&#10;&gt;&gt;How many rows were loaded into the data model?&lt;&lt;&#10;&#10;= 436&#10;&#10;&gt;&gt;How many columns were left in the resulting table? &lt;&lt;&#10;&#10;= 4&#10;&#10;" max_attempts="3" weight="4.0">
+<p>Answer the following questions by reviewing the query you have just created.</p>
+
+<p>How many rows were loaded into the data model?</p>
+
+<numericalresponse answer="436">
+  <formulaequationinput label="How many rows were loaded into the data model?"/>
+</numericalresponse>
+
+<p>How many columns were left in the resulting table? </p>
+
+<numericalresponse answer="4">
+  <formulaequationinput label="How many columns were left in the resulting table? "/>
+</numericalresponse>
+
+
+</problem>

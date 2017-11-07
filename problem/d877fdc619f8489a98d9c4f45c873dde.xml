@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;The SAMEPERIODLASTYEAR function takes in one parameter. Which argument can be used in that parameter?&lt;&lt;&#10;&#10;( )&#9;A decimal value&#10;(x)&#9;A reference to a date/time column &#10;( )&#9;A string value&#10;( )&#9;A numerical value&#10;&#10;[explanation]&#10;The SAMEPERIODLASTYEAR function takes in one argument, which can be any of the following:&#10;A reference to a date/time column, a table expression that returns a single column of date/time values, or a Boolean expression that defines a single-column table of date/time values.&#10;&#10;[explanation]&#10;">
+<p>The SAMEPERIODLASTYEAR function takes in one parameter. Which argument can be used in that parameter?</p>
+<multiplechoiceresponse>
+  <choicegroup label="The SAMEPERIODLASTYEAR function takes in one parameter. Which argument can be used in that parameter?" type="MultipleChoice">
+    <choice correct="false">A decimal value</choice>
+    <choice correct="true">A reference to a date/time column</choice>
+    <choice correct="false">A string value</choice>
+    <choice correct="false">A numerical value</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The SAMEPERIODLASTYEAR function takes in one argument, which can be any of the following:</p>
+<p>A reference to a date/time column, a table expression that returns a single column of date/time values, or a Boolean expression that defines a single-column table of date/time values.</p>
+</div>
+</solution>
+
+</problem>

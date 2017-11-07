@@ -1,0 +1,21 @@
+<problem display_name="Question 7" markdown="&gt;&gt;Which chart type should be used to present data across a period of time (i.e sales by months)?&lt;&lt;&#10;&#10;( )&#9;Pie&#10;( )&#9;Treemap&#10;(x)&#9;Line&#10;( )&#9;Scatter&#10;&#10;[explanation]&#10;Typically, you would use a Line chart to present data across a period of time.&#10;[explanation]&#10;">
+<p>Which chart type should be used to present data across a period of time (i.e sales by months)?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which chart type should be used to present data across a period of time (i.e sales by months)?" type="MultipleChoice">
+    <choice correct="false">Pie</choice>
+    <choice correct="false">Treemap</choice>
+    <choice correct="true">Line</choice>
+    <choice correct="false">Scatter</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Typically, you would use a Line chart to present data across a period of time.</p>
+
+</div>
+</solution>
+
+</problem>

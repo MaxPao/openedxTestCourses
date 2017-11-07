@@ -1,0 +1,21 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Which CUBE function defines a calculated set of members by sending a set of expressions to the cube, creates the set, and then returns that set to Excel?&lt;&lt;&#10;&#10;( )&#9;CUBEMEMBER&#10;( )&#9;CUBEVALUE&#10;(x)&#9;CUBESET&#10;( )&#9;CUBECOUNT&#10;&#10;[explanation]&#10;The CUBESET function defines a calculated set of members or tuples by sending a set expression to the cube on the server, which creates the set, and then returns that set to Microsoft Excel.&#10;[explanation]&#10;">
+<p>Which CUBE function defines a calculated set of members by sending a set of expressions to the cube, creates the set, and then returns that set to Excel?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which CUBE function defines a calculated set of members by sending a set of expressions to the cube, creates the set, and then returns that set to Excel?" type="MultipleChoice">
+    <choice correct="false">CUBEMEMBER</choice>
+    <choice correct="false">CUBEVALUE</choice>
+    <choice correct="true">CUBESET</choice>
+    <choice correct="false">CUBECOUNT</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The CUBESET function defines a calculated set of members or tuples by sending a set expression to the cube on the server, which creates the set, and then returns that set to Microsoft Excel.</p>
+
+</div>
+</solution>
+
+</problem>
